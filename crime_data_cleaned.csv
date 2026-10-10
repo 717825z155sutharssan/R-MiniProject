@@ -1,0 +1,1001 @@
+"Crime_ID","Date","State","City","Crime_Type","Weapon_Used","Time","Victim_Age","Victim_Gender","Case_Status","Victims_Count","Year","Month","Hour","TimeOfDay","AgeGroup","Solved"
+"CR10682",2020-11-06,"West Bengal","Kolkata","Drug Offence","None","23:42",28,"Female","Solved",3,2020,"Nov",23,"Night","18-30",1
+"CR10025",2024-06-08,"Gujarat","Vadodara","Cyber Crime","Online","12:27",38,"Male","Unsolved",2,2024,"Jun",12,"Afternoon","31-45",0
+"CR10622",2022-04-02,"Delhi","New Delhi","Burglary","Crowbar","18:30",19,"Male","Unsolved",1,2022,"Apr",18,"Evening","18-30",0
+"CR10100",2025-07-19,"Maharashtra","Nashik","Assault","Blunt Object","23:16",22,"Female","Unsolved",1,2025,"Jul",23,"Night","18-30",0
+"CR10285",2023-03-18,"Uttar Pradesh","Kanpur","Theft","None","21:13",7,"Male","Unsolved",3,2023,"Mar",21,"Evening","0-17",0
+"CR10692",2025-05-11,"Gujarat","Vadodara","Vehicle Theft","None","13:43",46,"Female","Solved",2,2025,"May",13,"Afternoon","46-60",1
+"CR10745",2023-10-03,"Maharashtra","Nagpur","Burglary","None","23:12",32,"Female","Solved",1,2023,"Oct",23,"Night","31-45",1
+"CR10309",2021-08-02,"Tamil Nadu","Chennai","Vehicle Theft","None","08:25",45,"Female","Solved",1,2021,"Aug",8,"Morning","31-45",1
+"CR10770",2023-10-08,"Rajasthan","Jodhpur","Assault","Blunt Object","22:27",50,"Male","Solved",2,2023,"Oct",22,"Night","46-60",1
+"CR10436",2020-06-01,"Kerala","Kochi","Cyber Crime","Online","16:28",27,"Female","Solved",2,2020,"Jun",16,"Afternoon","18-30",1
+"CR10927",2020-01-21,"Maharashtra","Mumbai","Theft","None","19:35",42,"Female","Solved",3,2020,"Jan",19,"Evening","31-45",1
+"CR10164",2019-08-08,"Gujarat","Vadodara","Murder","Firearm","17:35",27,"Female","Unsolved",1,2019,"Aug",17,"Afternoon","18-30",0
+"CR10233",2025-08-26,"Karnataka","Bengaluru","Fraud","Online","12:44",26,"Female","Unsolved",1,2025,"Aug",12,"Afternoon","18-30",0
+"CR10943",2020-09-22,"Rajasthan","Jaipur","Cyber Crime","Online","00:37",47,"Male","Unsolved",3,2020,"Sep",0,"Night","46-60",0
+"CR10919",2021-06-14,"West Bengal","Kolkata","Cyber Crime","Online","12:11",46,"Female","Unsolved",2,2021,"Jun",12,"Afternoon","46-60",0
+"CR10169",2021-01-21,"Delhi","New Delhi","Theft","None","03:22",48,"Male","Unsolved",2,2021,"Jan",3,"Night","46-60",0
+"CR10958",2023-08-13,"Uttar Pradesh","Kanpur","Cyber Crime","Online","03:36",9,"Female","Unsolved",3,2023,"Aug",3,"Night","0-17",0
+"CR10660",2022-07-19,"Delhi","New Delhi","Murder","Knife","20:04",19,"Male","Solved",2,2022,"Jul",20,"Evening","18-30",1
+"CR10366",2022-03-02,"Tamil Nadu","Trichy","Fraud","None","19:26",34,"Male","Solved",3,2022,"Mar",19,"Evening","31-45",1
+"CR10257",2025-07-09,"Gujarat","Surat","Vehicle Theft","None","15:56",11,"Male","Solved",2,2025,"Jul",15,"Afternoon","0-17",1
+"CR10154",2023-07-21,"Kerala","Kochi","Theft","None","21:43",24,"Male","Solved",3,2023,"Jul",21,"Evening","18-30",1
+"CR10917",2019-01-09,"Tamil Nadu","Madurai","Assault","None","23:01",40,"Male","Solved",3,2019,"Jan",23,"Night","31-45",1
+"CR10686",2021-08-01,"West Bengal","Siliguri","Drug Offence","None","12:14",29,"Male","Solved",2,2021,"Aug",12,"Afternoon","18-30",1
+"CR10726",2019-03-05,"Karnataka","Bengaluru","Domestic Violence","Blunt Object","22:32",20,"Female","Unsolved",1,2019,"Mar",22,"Night","18-30",0
+"CR10990",2024-11-09,"Karnataka","Hubli","Domestic Violence","None","21:03",57,"Female","Solved",1,2024,"Nov",21,"Evening","46-60",1
+"CR10298",2024-02-01,"Karnataka","Mangaluru","Vehicle Theft","None","00:15",29,"Male","Solved",1,2024,"Feb",0,"Night","18-30",1
+"CR10095",2021-02-03,"Delhi","Rohini","Vehicle Theft","None","15:28",49,"Female","Unsolved",2,2021,"Feb",15,"Afternoon","46-60",0
+"CR10879",2023-06-04,"West Bengal","Kolkata","Theft","None","00:42",18,"Male","Unsolved",3,2023,"Jun",0,"Night","18-30",0
+"CR10061",2024-10-11,"Delhi","Rohini","Burglary","None","10:08",33,"Male","Unsolved",1,2024,"Oct",10,"Morning","31-45",0
+"CR10010",2022-08-23,"Kerala","Thiruvananthapuram","Vehicle Theft","None","22:59",21,"Female","Unsolved",3,2022,"Aug",22,"Night","18-30",0
+"CR10756",2021-07-26,"Tamil Nadu","Coimbatore","Cyber Crime","Online","19:50",36,"Male","Solved",3,2021,"Jul",19,"Evening","31-45",1
+"CR10786",2022-02-20,"Maharashtra","Mumbai","Fraud","Online","17:21",18,"Female","Solved",3,2022,"Feb",17,"Afternoon","18-30",1
+"CR10737",2020-03-17,"Tamil Nadu","Madurai","Vehicle Theft","None","00:54",13,"Male","Unsolved",1,2020,"Mar",0,"Night","0-17",0
+"CR10026",2020-08-19,"Tamil Nadu","Coimbatore","Robbery","Knife","21:05",38,"Male","Unsolved",2,2020,"Aug",21,"Evening","31-45",0
+"CR10851",2020-07-15,"Maharashtra","Mumbai","Cyber Crime","Online","12:30",18,"Female","Unsolved",3,2020,"Jul",12,"Afternoon","18-30",0
+"CR10358",2024-10-14,"West Bengal","Howrah","Murder","Blunt Object","18:20",24,"Male","Solved",1,2024,"Oct",18,"Evening","18-30",1
+"CR10675",2023-11-26,"Uttar Pradesh","Kanpur","Burglary","None","17:30",33,"Female","Unsolved",2,2023,"Nov",17,"Afternoon","31-45",0
+"CR10229",2023-08-17,"Kerala","Kochi","Theft","None","20:44",24,"Male","Solved",3,2023,"Aug",20,"Evening","18-30",1
+"CR10501",2024-10-19,"Karnataka","Bengaluru","Assault","None","22:27",33,"Male","Unsolved",1,2024,"Oct",22,"Night","31-45",0
+"CR10499",2022-06-11,"Gujarat","Vadodara","Burglary","Crowbar","03:40",76,"Female","Unsolved",1,2022,"Jun",3,"Night","60+",0
+"CR10578",2023-11-12,"Karnataka","Hubli","Burglary","None","21:35",18,"Male","Solved",1,2023,"Nov",21,"Evening","18-30",1
+"CR10876",2025-09-04,"West Bengal","Siliguri","Theft","None","20:15",35,"Male","Solved",3,2025,"Sep",20,"Evening","31-45",1
+"CR10139",2024-04-25,"Delhi","Rohini","Theft","None","02:55",11,"Female","Solved",1,2024,"Apr",2,"Night","0-17",1
+"CR10172",2023-09-23,"Delhi","New Delhi","Fraud","Online","22:35",44,"Male","Solved",3,2023,"Sep",22,"Night","31-45",1
+"CR10794",2019-02-23,"Delhi","Dwarka","Theft","None","00:50",33,"Male","Unsolved",3,2019,"Feb",0,"Night","31-45",0
+"CR10918",2020-07-23,"Gujarat","Surat","Fraud","None","23:33",39,"Female","Unsolved",3,2020,"Jul",23,"Night","31-45",0
+"CR10014",2025-12-09,"Tamil Nadu","Trichy","Theft","None","20:27",34,"Female","Unsolved",1,2025,"Dec",20,"Evening","31-45",0
+"CR10424",2019-01-10,"West Bengal","Howrah","Fraud","Online","22:25",38,"Male","Solved",2,2019,"Jan",22,"Night","31-45",1
+"CR10683",2019-08-06,"Tamil Nadu","Madurai","Theft","None","01:15",33,"Male","Unsolved",2,2019,"Aug",1,"Night","31-45",0
+"CR10217",2020-02-11,"Karnataka","Hubli","Fraud","Online","13:59",32,"Female","Solved",2,2020,"Feb",13,"Afternoon","31-45",1
+"CR10735",2019-02-21,"Uttar Pradesh","Lucknow","Fraud","None","12:18",26,"Male","Solved",1,2019,"Feb",12,"Afternoon","18-30",1
+"CR10109",2019-01-09,"Telangana","Warangal","Theft","None","20:11",27,"Female","Unsolved",2,2019,"Jan",20,"Evening","18-30",0
+"CR10548",2019-11-15,"Maharashtra","Nagpur","Assault","Knife","17:43",32,"Male","Solved",3,2019,"Nov",17,"Afternoon","31-45",1
+"CR10114",2023-11-10,"Tamil Nadu","Madurai","Kidnapping","None","09:19",10,"Female","Solved",3,2023,"Nov",9,"Morning","0-17",1
+"CR10965",2025-02-11,"Kerala","Unknown","Robbery","None","18:05",42,"Male","Unsolved",1,2025,"Feb",18,"Evening","31-45",0
+"CR10438",2023-04-02,"West Bengal","Siliguri","Burglary","Crowbar","20:09",37,"Male","Solved",1,2023,"Apr",20,"Evening","31-45",1
+"CR10327",2024-08-08,"Gujarat","Ahmedabad","Assault","Blunt Object","19:40",28,"Male","Solved",1,2024,"Aug",19,"Evening","18-30",1
+"CR10709",2022-11-02,"Uttar Pradesh","Noida","Burglary","Crowbar","06:47",6,"Male","Unsolved",1,2022,"Nov",6,"Morning","0-17",0
+"CR10446",2024-03-25,"West Bengal","Siliguri","Cyber Crime","Online","21:47",59,"Female","Solved",1,2024,"Mar",21,"Evening","46-60",1
+"CR10566",2024-10-16,"Tamil Nadu","Madurai","Burglary","Crowbar","00:58",31,"Male","Solved",3,2024,"Oct",0,"Night","31-45",1
+"CR10803",2025-11-13,"Rajasthan","Udaipur","Murder","Firearm","23:23",28,"Female","Solved",2,2025,"Nov",23,"Night","18-30",1
+"CR10346",2024-11-07,"Karnataka","Mysuru","Vehicle Theft","None","20:18",48,"Female","Unsolved",2,2024,"Nov",20,"Evening","46-60",0
+"CR10448",2023-08-05,"Kerala","Thiruvananthapuram","Assault","Blunt Object","11:21",16,"Male","Unsolved",1,2023,"Aug",11,"Morning","0-17",0
+"CR10111",2022-09-21,"Gujarat","Surat","Cyber Crime","Online","10:28",26,"Female","Unsolved",3,2022,"Sep",10,"Morning","18-30",0
+"CR10126",2023-06-16,"Kerala","Kochi","Kidnapping","None","03:42",41,"Female","Solved",2,2023,"Jun",3,"Night","31-45",1
+"CR10871",2024-07-28,"Tamil Nadu","Chennai","Burglary","None","12:00",21,"Male","Unsolved",2,2024,"Jul",12,"Afternoon","18-30",0
+"CR10035",2022-02-15,"Maharashtra","Nagpur","Robbery","None","17:55",33,"Male","Unsolved",1,2022,"Feb",17,"Afternoon","31-45",0
+"CR10054",2024-03-19,"Uttar Pradesh","Lucknow","Robbery","Firearm","19:49",43,"Female","Solved",1,2024,"Mar",19,"Evening","31-45",1
+"CR10766",2019-01-01,"Gujarat","Surat","Kidnapping","Firearm","14:23",14,"Female","Solved",3,2019,"Jan",14,"Afternoon","0-17",1
+"CR10949",2025-12-14,"Delhi","Dwarka","Theft","None","01:31",16,"Female","Solved",3,2025,"Dec",1,"Night","0-17",1
+"CR10597",2024-06-13,"Rajasthan","Udaipur","Domestic Violence","None","07:49",20,"Male","Solved",3,2024,"Jun",7,"Morning","18-30",1
+"CR10238",2024-03-07,"Tamil Nadu","Coimbatore","Domestic Violence","Blunt Object","20:44",46,"Female","Solved",2,2024,"Mar",20,"Evening","46-60",1
+"CR10325",2025-09-28,"West Bengal","Kolkata","Burglary","None","19:57",31,"Female","Unsolved",3,2025,"Sep",19,"Evening","31-45",0
+"CR10840",2023-07-10,"Tamil Nadu","Coimbatore","Cyber Crime","Online","06:25",29,"Female","Unsolved",1,2023,"Jul",6,"Morning","18-30",0
+"CR10385",2022-02-11,"Uttar Pradesh","Kanpur","Theft","None","14:05",38,"Male","Unsolved",1,2022,"Feb",14,"Afternoon","31-45",0
+"CR10319",2021-07-20,"Telangana","Warangal","Theft","None","11:00",24,"Male","Solved",1,2021,"Jul",11,"Morning","18-30",1
+"CR10653",2024-06-02,"Maharashtra","Mumbai","Assault","Knife","00:48",31,"Female","Solved",2,2024,"Jun",0,"Night","31-45",1
+"CR10880",2023-01-13,"Delhi","Rohini","Murder","Blunt Object","19:21",35,"Female","Unsolved",1,2023,"Jan",19,"Evening","31-45",0
+"CR10300",2024-04-08,"Uttar Pradesh","Noida","Burglary","Crowbar","14:53",23,"Female","Unsolved",1,2024,"Apr",14,"Afternoon","18-30",0
+"CR10740",2022-11-01,"Karnataka","Bengaluru","Vehicle Theft","None","23:01",35,"Male","Unsolved",3,2022,"Nov",23,"Night","31-45",0
+"CR10432",2024-08-16,"Telangana","Hyderabad","Vehicle Theft","None","17:42",44,"Female","Solved",3,2024,"Aug",17,"Afternoon","31-45",1
+"CR10418",2024-05-25,"Tamil Nadu","Trichy","Theft","None","19:34",38,"Male","Solved",2,2024,"May",19,"Evening","31-45",1
+"CR10650",2019-05-14,"West Bengal","Kolkata","Cyber Crime","Online","07:20",54,"Female","Solved",2,2019,"May",7,"Morning","46-60",1
+"CR10668",2025-02-01,"Kerala","Thiruvananthapuram","Burglary","None","07:05",57,"Male","Unsolved",1,2025,"Feb",7,"Morning","46-60",0
+"CR10944",2022-12-16,"Telangana","Warangal","Assault","None","05:33",5,"Male","Unsolved",3,2022,"Dec",5,"Night","0-17",0
+"CR10725",2019-05-24,"Karnataka","Mangaluru","Burglary","None","18:49",28,"Female","Unsolved",2,2019,"May",18,"Evening","18-30",0
+"CR10713",2025-07-15,"Gujarat","Surat","Fraud","None","16:42",29,"Male","Unsolved",2,2025,"Jul",16,"Afternoon","18-30",0
+"CR11000",2021-01-21,"Delhi","Dwarka","Theft","None","02:46",33,"Female","Unsolved",2,2021,"Jan",2,"Night","31-45",0
+"CR10732",2019-11-20,"Tamil Nadu","Madurai","Theft","None","06:29",33,"Male","Unsolved",1,2019,"Nov",6,"Morning","31-45",0
+"CR10718",2019-07-19,"Telangana","Warangal","Theft","None","22:41",36,"Male","Unsolved",1,2019,"Jul",22,"Night","31-45",0
+"CR10205",2019-11-20,"West Bengal","Kolkata","Drug Offence","None","21:32",27,"Female","Solved",3,2019,"Nov",21,"Evening","18-30",1
+"CR10572",2025-10-03,"West Bengal","Siliguri","Fraud","None","00:09",34,"Male","Solved",2,2025,"Oct",0,"Night","31-45",1
+"CR10925",2020-01-13,"Gujarat","Ahmedabad","Cyber Crime","Online","18:09",27,"Female","Unsolved",3,2020,"Jan",18,"Evening","18-30",0
+"CR10243",2021-01-06,"Karnataka","Mysuru","Theft","None","19:32",19,"Male","Unsolved",2,2021,"Jan",19,"Evening","18-30",0
+"CR10983",2024-09-21,"Rajasthan","Udaipur","Domestic Violence","Blunt Object","19:26",53,"Female","Unsolved",2,2024,"Sep",19,"Evening","46-60",0
+"CR10171",2021-08-26,"Maharashtra","Nashik","Theft","None","22:38",34,"Male","Unsolved",1,2021,"Aug",22,"Night","31-45",0
+"CR10579",2025-05-26,"Tamil Nadu","Madurai","Theft","None","20:00",30,"Female","Solved",3,2025,"May",20,"Evening","18-30",1
+"CR10971",2021-10-25,"Maharashtra","Pune","Theft","None","22:18",34,"Male","Unsolved",3,2021,"Oct",22,"Night","31-45",0
+"CR10966",2022-01-23,"Maharashtra","Mumbai","Drug Offence","None","16:56",34,"Male","Solved",3,2022,"Jan",16,"Afternoon","31-45",1
+"CR10939",2025-05-11,"Uttar Pradesh","Lucknow","Drug Offence","None","10:47",42,"Male","Solved",3,2025,"May",10,"Morning","31-45",1
+"CR10206",2021-10-22,"Telangana","Hyderabad","Theft","None","17:29",23,"Male","Solved",2,2021,"Oct",17,"Afternoon","18-30",1
+"CR10510",2019-04-23,"West Bengal","Unknown","Cyber Crime","Online","02:08",32,"Male","Unsolved",3,2019,"Apr",2,"Night","31-45",0
+"CR10165",2023-08-12,"West Bengal","Howrah","Drug Offence","None","04:50",12,"Male","Solved",2,2023,"Aug",4,"Night","0-17",1
+"CR10263",2021-06-25,"Tamil Nadu","Madurai","Vehicle Theft","None","10:20",33,"Female","Unsolved",1,2021,"Jun",10,"Morning","31-45",0
+"CR10027",2022-10-14,"Rajasthan","Jodhpur","Robbery","Knife","17:53",18,"Male","Solved",1,2022,"Oct",17,"Afternoon","18-30",1
+"CR10058",2023-08-22,"Telangana","Warangal","Assault","Knife","13:27",46,"Male","Unsolved",2,2023,"Aug",13,"Afternoon","46-60",0
+"CR10047",2022-12-09,"Karnataka","Mysuru","Burglary","Crowbar","23:49",51,"Female","Unsolved",1,2022,"Dec",23,"Night","46-60",0
+"CR10278",2023-11-20,"Gujarat","Vadodara","Cyber Crime","Online","17:09",5,"Male","Solved",2,2023,"Nov",17,"Afternoon","0-17",1
+"CR10987",2021-06-13,"Rajasthan","Jaipur","Assault","Knife","12:04",36,"Male","Unsolved",3,2021,"Jun",12,"Afternoon","31-45",0
+"CR10906",2024-09-11,"Karnataka","Mysuru","Burglary","Crowbar","15:22",14,"Female","Unsolved",1,2024,"Sep",15,"Afternoon","0-17",0
+"CR10099",2019-08-17,"Telangana","Hyderabad","Cyber Crime","Online","18:59",6,"Female","Solved",2,2019,"Aug",18,"Evening","0-17",1
+"CR10593",2021-06-22,"Maharashtra","Mumbai","Domestic Violence","None","03:29",18,"Female","Solved",1,2021,"Jun",3,"Night","18-30",1
+"CR10721",2023-01-21,"Maharashtra","Mumbai","Vehicle Theft","None","19:08",41,"Female","Unsolved",1,2023,"Jan",19,"Evening","31-45",0
+"CR10651",2022-11-14,"Karnataka","Mysuru","Cyber Crime","Online","04:31",42,"Female","Unsolved",1,2022,"Nov",4,"Night","31-45",0
+"CR10730",2023-12-16,"Kerala","Kochi","Cyber Crime","Online","16:19",35,"Female","Unsolved",3,2023,"Dec",16,"Afternoon","31-45",0
+"CR10147",2021-01-06,"Maharashtra","Nagpur","Robbery","None","02:16",33,"Female","Solved",1,2021,"Jan",2,"Night","31-45",1
+"CR10792",2022-05-25,"Rajasthan","Jaipur","Fraud","None","18:40",35,"Male","Unsolved",2,2022,"May",18,"Evening","31-45",0
+"CR10044",2021-08-28,"Uttar Pradesh","Noida","Assault","Knife","14:57",39,"Male","Unsolved",2,2021,"Aug",14,"Afternoon","31-45",0
+"CR10696",2023-01-24,"Kerala","Thiruvananthapuram","Cyber Crime","Online","01:58",31,"Male","Unsolved",2,2023,"Jan",1,"Night","31-45",0
+"CR10664",2019-12-11,"Rajasthan","Jodhpur","Cyber Crime","Online","00:38",51,"Male","Solved",3,2019,"Dec",0,"Night","46-60",1
+"CR10064",2024-11-11,"Kerala","Thiruvananthapuram","Vehicle Theft","None","15:45",29,"Female","Unsolved",2,2024,"Nov",15,"Afternoon","18-30",0
+"CR10952",2021-10-12,"Maharashtra","Nagpur","Murder","Knife","19:36",46,"Female","Solved",2,2021,"Oct",19,"Evening","46-60",1
+"CR10631",2025-04-08,"Telangana","Hyderabad","Theft","None","14:42",42,"Male","Unsolved",1,2025,"Apr",14,"Afternoon","31-45",0
+"CR10337",2019-03-10,"Karnataka","Mangaluru","Vehicle Theft","None","07:06",19,"Female","Solved",2,2019,"Mar",7,"Morning","18-30",1
+"CR10039",2021-07-07,"Telangana","Warangal","Domestic Violence","None","05:06",21,"Female","Solved",2,2021,"Jul",5,"Night","18-30",1
+"CR10468",2025-11-19,"Gujarat","Vadodara","Cyber Crime","Online","09:51",36,"Female","Unsolved",1,2025,"Nov",9,"Morning","31-45",0
+"CR10558",2023-04-14,"Gujarat","Ahmedabad","Theft","None","23:31",22,"Male","Unsolved",1,2023,"Apr",23,"Night","18-30",0
+"CR10361",2025-05-26,"Tamil Nadu","Salem","Robbery","Firearm","16:09",39,"Female","Solved",2,2025,"May",16,"Afternoon","31-45",1
+"CR10565",2024-07-19,"Maharashtra","Nashik","Burglary","Crowbar","14:12",44,"Male","Unsolved",2,2024,"Jul",14,"Afternoon","31-45",0
+"CR10223",2024-01-27,"Gujarat","Vadodara","Kidnapping","None","03:41",28,"Male","Solved",1,2024,"Jan",3,"Night","18-30",1
+"CR10930",2024-02-09,"Maharashtra","Mumbai","Burglary","None","21:23",46,"Male","Unsolved",3,2024,"Feb",21,"Evening","46-60",0
+"CR10564",2023-08-28,"Uttar Pradesh","Noida","Cyber Crime","Online","03:10",29,"Male","Solved",1,2023,"Aug",3,"Night","18-30",1
+"CR10869",2019-08-20,"Maharashtra","Nashik","Burglary","None","22:19",37,"Female","Unsolved",2,2019,"Aug",22,"Night","31-45",0
+"CR10356",2023-06-15,"Maharashtra","Nagpur","Kidnapping","Firearm","15:21",36,"Male","Solved",3,2023,"Jun",15,"Afternoon","31-45",1
+"CR10789",2024-12-09,"Uttar Pradesh","Kanpur","Assault","None","20:11",21,"Female","Solved",3,2024,"Dec",20,"Evening","18-30",1
+"CR10306",2022-11-18,"Maharashtra","Mumbai","Domestic Violence","None","21:52",51,"Female","Solved",1,2022,"Nov",21,"Evening","46-60",1
+"CR10141",2022-02-19,"Maharashtra","Nagpur","Theft","None","22:39",11,"Female","Solved",3,2022,"Feb",22,"Night","0-17",1
+"CR10458",2022-05-06,"Delhi","New Delhi","Robbery","None","19:29",23,"Male","Unsolved",2,2022,"May",19,"Evening","18-30",0
+"CR10972",2019-02-27,"Delhi","Dwarka","Theft","None","20:29",30,"Male","Unsolved",3,2019,"Feb",20,"Evening","18-30",0
+"CR10554",2025-12-24,"Tamil Nadu","Trichy","Robbery","Firearm","00:33",47,"Female","Unsolved",3,2025,"Dec",0,"Night","46-60",0
+"CR10841",2019-09-06,"Maharashtra","Unknown","Assault","Knife","15:10",33,"Male","Solved",2,2019,"Sep",15,"Afternoon","31-45",1
+"CR10811",2019-09-27,"Rajasthan","Jaipur","Cyber Crime","Online","11:56",29,"Female","Unsolved",2,2019,"Sep",11,"Morning","18-30",0
+"CR10839",2022-02-23,"Rajasthan","Jaipur","Cyber Crime","Online","12:18",43,"Female","Solved",3,2022,"Feb",12,"Afternoon","31-45",1
+"CR10062",2022-06-14,"West Bengal","Howrah","Domestic Violence","Blunt Object","14:10",26,"Female","Solved",1,2022,"Jun",14,"Afternoon","18-30",1
+"CR10895",2024-03-05,"Karnataka","Mangaluru","Cyber Crime","Online","05:35",32,"Female","Solved",1,2024,"Mar",5,"Night","31-45",1
+"CR10914",2025-05-18,"Gujarat","Vadodara","Burglary","None","23:31",39,"Male","Unsolved",1,2025,"May",23,"Night","31-45",0
+"CR10512",2025-05-27,"Rajasthan","Jodhpur","Vehicle Theft","None","21:30",27,"Male","Unsolved",1,2025,"May",21,"Evening","18-30",0
+"CR10922",2025-01-15,"Maharashtra","Nashik","Cyber Crime","Online","03:39",20,"Male","Unsolved",3,2025,"Jan",3,"Night","18-30",0
+"CR10592",2022-03-03,"West Bengal","Siliguri","Robbery","None","18:11",16,"Female","Solved",2,2022,"Mar",18,"Evening","0-17",1
+"CR10802",2021-01-20,"Maharashtra","Nashik","Cyber Crime","Online","01:35",33,"Male","Unsolved",3,2021,"Jan",1,"Night","31-45",0
+"CR10603",2025-06-03,"Gujarat","Ahmedabad","Cyber Crime","Online","23:33",6,"Female","Unsolved",3,2025,"Jun",23,"Night","0-17",0
+"CR10814",2023-02-08,"Kerala","Thiruvananthapuram","Burglary","None","17:08",55,"Male","Solved",3,2023,"Feb",17,"Afternoon","46-60",1
+"CR10254",2021-04-24,"Gujarat","Ahmedabad","Kidnapping","None","19:11",37,"Female","Solved",1,2021,"Apr",19,"Evening","31-45",1
+"CR10331",2024-04-15,"Uttar Pradesh","Lucknow","Cyber Crime","Online","16:02",46,"Female","Unsolved",2,2024,"Apr",16,"Afternoon","46-60",0
+"CR10369",2021-11-05,"Delhi","Dwarka","Drug Offence","None","00:15",33,"Female","Solved",2,2021,"Nov",0,"Night","31-45",1
+"CR10110",2025-10-03,"Gujarat","Ahmedabad","Fraud","None","13:42",47,"Male","Unsolved",1,2025,"Oct",13,"Afternoon","46-60",0
+"CR10790",2023-06-07,"Uttar Pradesh","Lucknow","Burglary","None","17:18",7,"Male","Unsolved",1,2023,"Jun",17,"Afternoon","0-17",0
+"CR10320",2025-10-05,"Uttar Pradesh","Lucknow","Fraud","None","20:16",42,"Male","Solved",1,2025,"Oct",20,"Evening","31-45",1
+"CR10758",2025-09-20,"Kerala","Thiruvananthapuram","Assault","None","10:25",23,"Female","Solved",2,2025,"Sep",10,"Morning","18-30",1
+"CR10626",2022-11-08,"Uttar Pradesh","Kanpur","Drug Offence","None","08:01",28,"Female","Solved",1,2022,"Nov",8,"Morning","18-30",1
+"CR10149",2022-12-21,"Rajasthan","Jaipur","Assault","Blunt Object","15:33",47,"Male","Solved",2,2022,"Dec",15,"Afternoon","46-60",1
+"CR10687",2022-12-15,"Maharashtra","Nashik","Cyber Crime","Online","02:39",30,"Female","Solved",2,2022,"Dec",2,"Night","18-30",1
+"CR10610",2022-05-08,"Uttar Pradesh","Noida","Murder","Blunt Object","15:06",33,"Female","Unsolved",2,2022,"May",15,"Afternoon","31-45",0
+"CR10260",2023-08-05,"Uttar Pradesh","Varanasi","Fraud","None","20:06",49,"Male","Solved",2,2023,"Aug",20,"Evening","46-60",1
+"CR10535",2019-01-22,"Karnataka","Bengaluru","Kidnapping","Firearm","21:51",37,"Male","Solved",1,2019,"Jan",21,"Evening","31-45",1
+"CR10733",2019-09-28,"Karnataka","Mysuru","Vehicle Theft","None","21:35",27,"Female","Solved",3,2019,"Sep",21,"Evening","18-30",1
+"CR10500",2023-04-21,"Karnataka","Mangaluru","Domestic Violence","None","07:14",17,"Female","Solved",1,2023,"Apr",7,"Morning","0-17",1
+"CR10129",2019-03-26,"Maharashtra","Pune","Burglary","None","11:45",39,"Male","Solved",2,2019,"Mar",11,"Morning","31-45",1
+"CR10661",2021-08-17,"Uttar Pradesh","Lucknow","Kidnapping","Firearm","05:19",25,"Male","Solved",2,2021,"Aug",5,"Night","18-30",1
+"CR10587",2020-09-06,"Karnataka","Hubli","Fraud","Online","18:44",33,"Female","Solved",3,2020,"Sep",18,"Evening","31-45",1
+"CR10904",2022-08-24,"Karnataka","Mysuru","Drug Offence","None","20:35",51,"Male","Solved",2,2022,"Aug",20,"Evening","46-60",1
+"CR10187",2022-08-14,"Rajasthan","Jodhpur","Cyber Crime","Online","14:37",21,"Male","Unsolved",2,2022,"Aug",14,"Afternoon","18-30",0
+"CR10488",2021-12-19,"Gujarat","Vadodara","Domestic Violence","Blunt Object","12:10",34,"Female","Solved",2,2021,"Dec",12,"Afternoon","31-45",1
+"CR10571",2021-07-13,"Tamil Nadu","Madurai","Theft","None","01:34",12,"Female","Unsolved",2,2021,"Jul",1,"Night","0-17",0
+"CR10467",2024-09-27,"Maharashtra","Nashik","Kidnapping","None","11:00",46,"Female","Solved",3,2024,"Sep",11,"Morning","46-60",1
+"CR10486",2022-10-13,"Gujarat","Vadodara","Cyber Crime","Online","13:19",29,"Male","Unsolved",2,2022,"Oct",13,"Afternoon","18-30",0
+"CR10595",2019-09-10,"Uttar Pradesh","Kanpur","Robbery","Firearm","04:26",42,"Female","Solved",2,2019,"Sep",4,"Night","31-45",1
+"CR10750",2025-01-26,"Rajasthan","Udaipur","Theft","None","00:34",16,"Male","Unsolved",1,2025,"Jan",0,"Night","0-17",0
+"CR10586",2023-04-18,"West Bengal","Kolkata","Burglary","None","08:09",45,"Male","Solved",2,2023,"Apr",8,"Morning","31-45",1
+"CR10472",2022-08-07,"Delhi","Dwarka","Cyber Crime","Online","01:52",28,"Male","Unsolved",3,2022,"Aug",1,"Night","18-30",0
+"CR10481",2022-01-26,"Kerala","Thiruvananthapuram","Drug Offence","None","22:36",40,"Male","Solved",1,2022,"Jan",22,"Night","31-45",1
+"CR10135",2023-06-24,"Kerala","Kozhikode","Domestic Violence","Blunt Object","23:33",23,"Male","Solved",1,2023,"Jun",23,"Night","18-30",1
+"CR10611",2023-05-13,"Kerala","Kozhikode","Burglary","None","22:08",35,"Male","Solved",2,2023,"May",22,"Night","31-45",1
+"CR10819",2023-07-12,"Rajasthan","Udaipur","Assault","Knife","18:02",26,"Female","Unsolved",1,2023,"Jul",18,"Evening","18-30",0
+"CR10601",2022-09-13,"Gujarat","Ahmedabad","Domestic Violence","None","00:36",28,"Female","Solved",2,2022,"Sep",0,"Night","18-30",1
+"CR10160",2024-08-06,"Kerala","Kozhikode","Theft","None","03:41",43,"Female","Unsolved",3,2024,"Aug",3,"Night","31-45",0
+"CR10409",2019-12-03,"Delhi","Dwarka","Fraud","Online","20:32",27,"Female","Unsolved",3,2019,"Dec",20,"Evening","18-30",0
+"CR10368",2024-12-08,"Karnataka","Mangaluru","Theft","None","11:42",30,"Male","Unsolved",2,2024,"Dec",11,"Morning","18-30",0
+"CR10410",2025-01-15,"Rajasthan","Unknown","Vehicle Theft","None","07:38",56,"Female","Solved",2,2025,"Jan",7,"Morning","46-60",1
+"CR10049",2024-06-20,"Delhi","Dwarka","Assault","Knife","12:34",35,"Male","Solved",3,2024,"Jun",12,"Afternoon","31-45",1
+"CR10075",2019-10-18,"Kerala","Kochi","Robbery","Firearm","03:50",25,"Male","Solved",2,2019,"Oct",3,"Night","18-30",1
+"CR10245",2023-03-14,"Tamil Nadu","Trichy","Domestic Violence","None","18:11",13,"Female","Unsolved",2,2023,"Mar",18,"Evening","0-17",0
+"CR10948",2025-03-27,"Rajasthan","Udaipur","Kidnapping","None","02:19",16,"Male","Solved",3,2025,"Mar",2,"Night","0-17",1
+"CR10352",2020-03-03,"Maharashtra","Mumbai","Fraud","Online","17:16",23,"Male","Solved",1,2020,"Mar",17,"Afternoon","18-30",1
+"CR10514",2021-04-24,"Delhi","New Delhi","Theft","None","18:09",29,"Male","Unsolved",2,2021,"Apr",18,"Evening","18-30",0
+"CR10286",2022-09-22,"Maharashtra","Pune","Assault","Blunt Object","17:01",34,"Female","Unsolved",2,2022,"Sep",17,"Afternoon","31-45",0
+"CR10676",2022-05-07,"Kerala","Kochi","Vehicle Theft","None","10:57",18,"Male","Unsolved",2,2022,"May",10,"Morning","18-30",0
+"CR10700",2021-04-13,"Karnataka","Mangaluru","Robbery","Knife","19:45",31,"Male","Unsolved",2,2021,"Apr",19,"Evening","31-45",0
+"CR10621",2024-11-18,"Gujarat","Vadodara","Robbery","Firearm","04:45",17,"Male","Unsolved",1,2024,"Nov",4,"Night","0-17",0
+"CR10504",2023-04-17,"West Bengal","Kolkata","Assault","Blunt Object","00:23",33,"Male","Solved",3,2023,"Apr",0,"Night","31-45",1
+"CR10543",2025-02-10,"Karnataka","Mangaluru","Cyber Crime","Online","08:20",33,"Male","Unsolved",3,2025,"Feb",8,"Morning","31-45",0
+"CR10055",2024-08-14,"Delhi","New Delhi","Assault","Knife","23:58",17,"Male","Solved",1,2024,"Aug",23,"Night","0-17",1
+"CR10396",2022-05-11,"Telangana","Hyderabad","Theft","None","03:53",29,"Female","Unsolved",1,2022,"May",3,"Night","18-30",0
+"CR10098",2019-03-26,"Delhi","New Delhi","Domestic Violence","Blunt Object","23:40",8,"Female","Solved",1,2019,"Mar",23,"Night","0-17",1
+"CR10850",2025-12-09,"Uttar Pradesh","Noida","Cyber Crime","Online","22:13",36,"Female","Unsolved",2,2025,"Dec",22,"Night","31-45",0
+"CR10404",2019-08-19,"Delhi","Dwarka","Theft","None","18:30",38,"Male","Solved",1,2019,"Aug",18,"Evening","31-45",1
+"CR10450",2023-07-06,"Gujarat","Surat","Cyber Crime","Online","23:03",26,"Female","Unsolved",2,2023,"Jul",23,"Night","18-30",0
+"CR10295",2025-02-23,"Kerala","Kozhikode","Theft","None","20:44",41,"Male","Unsolved",2,2025,"Feb",20,"Evening","31-45",0
+"CR10128",2020-01-26,"Kerala","Kochi","Theft","None","08:02",30,"Male","Solved",1,2020,"Jan",8,"Morning","18-30",1
+"CR10853",2025-10-23,"West Bengal","Howrah","Domestic Violence","None","22:12",43,"Female","Solved",2,2025,"Oct",22,"Night","31-45",1
+"CR10612",2024-12-15,"Karnataka","Hubli","Burglary","Crowbar","14:27",47,"Male","Unsolved",3,2024,"Dec",14,"Afternoon","46-60",0
+"CR10419",2020-07-03,"Gujarat","Surat","Burglary","Crowbar","21:02",30,"Male","Solved",3,2020,"Jul",21,"Evening","18-30",1
+"CR10997",2023-10-07,"Rajasthan","Jodhpur","Domestic Violence","Blunt Object","03:01",27,"Female","Solved",3,2023,"Oct",3,"Night","18-30",1
+"CR10378",2022-03-04,"Delhi","New Delhi","Vehicle Theft","None","18:20",37,"Female","Solved",3,2022,"Mar",18,"Evening","31-45",1
+"CR10524",2023-05-12,"West Bengal","Kolkata","Theft","None","17:35",32,"Female","Solved",1,2023,"May",17,"Afternoon","31-45",1
+"CR10081",2024-05-10,"Uttar Pradesh","Varanasi","Drug Offence","None","02:28",36,"Female","Solved",2,2024,"May",2,"Night","31-45",1
+"CR10159",2024-03-28,"Tamil Nadu","Coimbatore","Theft","None","17:44",33,"Male","Solved",1,2024,"Mar",17,"Afternoon","31-45",1
+"CR10483",2023-02-02,"Karnataka","Bengaluru","Robbery","None","20:42",30,"Male","Unsolved",2,2023,"Feb",20,"Evening","18-30",0
+"CR10427",2021-09-22,"Tamil Nadu","Salem","Theft","None","18:21",44,"Male","Unsolved",1,2021,"Sep",18,"Evening","31-45",0
+"CR10860",2023-12-24,"Delhi","Dwarka","Kidnapping","None","16:38",10,"Female","Solved",1,2023,"Dec",16,"Afternoon","0-17",1
+"CR10685",2023-03-15,"Rajasthan","Udaipur","Domestic Violence","None","01:55",34,"Female","Solved",3,2023,"Mar",1,"Night","31-45",1
+"CR10887",2022-08-12,"Telangana","Hyderabad","Robbery","Firearm","19:19",55,"Female","Unsolved",3,2022,"Aug",19,"Evening","46-60",0
+"CR10672",2023-08-08,"Maharashtra","Nagpur","Theft","None","07:35",39,"Male","Unsolved",1,2023,"Aug",7,"Morning","31-45",0
+"CR10516",2020-08-16,"Delhi","New Delhi","Assault","None","18:08",37,"Female","Solved",1,2020,"Aug",18,"Evening","31-45",1
+"CR10809",2023-01-24,"Delhi","Dwarka","Vehicle Theft","None","06:13",15,"Female","Unsolved",3,2023,"Jan",6,"Morning","0-17",0
+"CR10633",2019-07-02,"Kerala","Kozhikode","Vehicle Theft","None","08:08",14,"Male","Solved",2,2019,"Jul",8,"Morning","0-17",1
+"CR10697",2024-02-10,"Karnataka","Hubli","Cyber Crime","Online","19:57",24,"Female","Unsolved",2,2024,"Feb",19,"Evening","18-30",0
+"CR10351",2023-02-04,"Kerala","Kozhikode","Fraud","None","22:25",37,"Male","Unsolved",3,2023,"Feb",22,"Night","31-45",0
+"CR10317",2022-03-10,"Uttar Pradesh","Kanpur","Vehicle Theft","None","23:37",37,"Female","Unsolved",2,2022,"Mar",23,"Night","31-45",0
+"CR10180",2024-01-28,"Tamil Nadu","Salem","Kidnapping","Firearm","20:48",41,"Female","Solved",3,2024,"Jan",20,"Evening","31-45",1
+"CR10891",2021-11-16,"West Bengal","Siliguri","Vehicle Theft","None","12:59",29,"Female","Unsolved",3,2021,"Nov",12,"Afternoon","18-30",0
+"CR10643",2019-04-14,"Uttar Pradesh","Lucknow","Domestic Violence","Blunt Object","12:20",36,"Female","Solved",3,2019,"Apr",12,"Afternoon","31-45",1
+"CR10596",2021-06-26,"Uttar Pradesh","Lucknow","Theft","None","16:13",5,"Male","Solved",2,2021,"Jun",16,"Afternoon","0-17",1
+"CR10123",2019-11-05,"Kerala","Thiruvananthapuram","Domestic Violence","Blunt Object","12:18",27,"Female","Solved",1,2019,"Nov",12,"Afternoon","18-30",1
+"CR10909",2021-02-09,"Tamil Nadu","Chennai","Vehicle Theft","None","19:01",33,"Male","Unsolved",1,2021,"Feb",19,"Evening","31-45",0
+"CR10473",2019-08-02,"Maharashtra","Nagpur","Vehicle Theft","None","11:35",20,"Female","Unsolved",3,2019,"Aug",11,"Morning","18-30",0
+"CR10757",2021-01-20,"Rajasthan","Jodhpur","Cyber Crime","Online","12:36",29,"Female","Unsolved",3,2021,"Jan",12,"Afternoon","18-30",0
+"CR10885",2020-02-19,"Maharashtra","Nagpur","Domestic Violence","None","23:16",28,"Male","Solved",3,2020,"Feb",23,"Night","18-30",1
+"CR10529",2024-02-02,"Tamil Nadu","Madurai","Robbery","None","19:07",27,"Male","Solved",3,2024,"Feb",19,"Evening","18-30",1
+"CR10455",2019-10-05,"Maharashtra","Mumbai","Fraud","Online","05:20",29,"Male","Solved",3,2019,"Oct",5,"Night","18-30",1
+"CR10898",2020-01-20,"Karnataka","Mysuru","Murder","Knife","22:46",32,"Male","Solved",1,2020,"Jan",22,"Night","31-45",1
+"CR10913",2025-08-01,"Delhi","Rohini","Vehicle Theft","None","10:41",48,"Female","Unsolved",1,2025,"Aug",10,"Morning","46-60",0
+"CR10420",2025-04-02,"Karnataka","Mangaluru","Theft","None","03:56",42,"Female","Unsolved",1,2025,"Apr",3,"Night","31-45",0
+"CR10173",2021-08-27,"Delhi","Rohini","Assault","Knife","13:19",10,"Male","Solved",3,2021,"Aug",13,"Afternoon","0-17",1
+"CR10897",2021-05-14,"Delhi","Dwarka","Vehicle Theft","None","00:58",30,"Male","Solved",3,2021,"May",0,"Night","18-30",1
+"CR10335",2020-03-09,"Delhi","Dwarka","Domestic Violence","None","03:30",29,"Female","Solved",3,2020,"Mar",3,"Night","18-30",1
+"CR10398",2021-10-12,"Delhi","Rohini","Fraud","Online","20:46",16,"Female","Solved",1,2021,"Oct",20,"Evening","0-17",1
+"CR10272",2020-06-18,"Rajasthan","Jaipur","Assault","Knife","23:33",46,"Female","Unsolved",2,2020,"Jun",23,"Night","46-60",0
+"CR10221",2021-08-17,"Uttar Pradesh","Lucknow","Vehicle Theft","None","18:54",10,"Male","Solved",1,2021,"Aug",18,"Evening","0-17",1
+"CR10988",2019-09-08,"Telangana","Warangal","Vehicle Theft","None","21:33",26,"Female","Unsolved",2,2019,"Sep",21,"Evening","18-30",0
+"CR10464",2021-11-09,"Karnataka","Bengaluru","Cyber Crime","Online","18:55",52,"Male","Unsolved",2,2021,"Nov",18,"Evening","46-60",0
+"CR10016",2021-12-01,"Tamil Nadu","Madurai","Murder","Firearm","23:03",50,"Male","Solved",1,2021,"Dec",23,"Night","46-60",1
+"CR10570",2023-09-20,"Rajasthan","Udaipur","Cyber Crime","Online","12:21",48,"Female","Unsolved",3,2023,"Sep",12,"Afternoon","46-60",0
+"CR10390",2025-10-05,"Maharashtra","Nagpur","Kidnapping","None","03:56",34,"Female","Solved",1,2025,"Oct",3,"Night","31-45",1
+"CR10826",2019-06-05,"Tamil Nadu","Madurai","Theft","None","13:23",35,"Female","Unsolved",1,2019,"Jun",13,"Afternoon","31-45",0
+"CR10322",2022-07-24,"Uttar Pradesh","Lucknow","Theft","None","14:08",37,"Male","Solved",3,2022,"Jul",14,"Afternoon","31-45",1
+"CR10801",2024-09-11,"West Bengal","Kolkata","Cyber Crime","Online","17:57",50,"Male","Unsolved",2,2024,"Sep",17,"Afternoon","46-60",0
+"CR10858",2025-01-23,"Uttar Pradesh","Noida","Robbery","None","18:01",37,"Male","Unsolved",3,2025,"Jan",18,"Evening","31-45",0
+"CR10526",2022-06-17,"Maharashtra","Pune","Theft","None","19:42",42,"Female","Unsolved",3,2022,"Jun",19,"Evening","31-45",0
+"CR10508",2025-09-16,"Delhi","New Delhi","Cyber Crime","Online","19:00",23,"Female","Unsolved",1,2025,"Sep",19,"Evening","18-30",0
+"CR10148",2023-03-28,"Uttar Pradesh","Varanasi","Burglary","Crowbar","10:53",25,"Female","Solved",1,2023,"Mar",10,"Morning","18-30",1
+"CR10397",2025-02-26,"Kerala","Kochi","Theft","None","15:38",26,"Male","Solved",2,2025,"Feb",15,"Afternoon","18-30",1
+"CR10657",2025-11-08,"Kerala","Thiruvananthapuram","Theft","None","17:48",26,"Female","Solved",2,2025,"Nov",17,"Afternoon","18-30",1
+"CR10998",2019-08-18,"West Bengal","Howrah","Cyber Crime","Online","01:01",54,"Female","Solved",3,2019,"Aug",1,"Night","46-60",1
+"CR10052",2019-11-08,"Uttar Pradesh","Varanasi","Robbery","Knife","20:20",62,"Female","Unsolved",1,2019,"Nov",20,"Evening","60+",0
+"CR10831",2023-03-28,"Rajasthan","Udaipur","Assault","None","00:16",17,"Male","Unsolved",3,2023,"Mar",0,"Night","0-17",0
+"CR10329",2023-02-04,"Tamil Nadu","Madurai","Assault","Blunt Object","00:21",57,"Male","Solved",3,2023,"Feb",0,"Night","46-60",1
+"CR10023",2025-11-27,"Gujarat","Vadodara","Theft","None","07:00",29,"Male","Unsolved",2,2025,"Nov",7,"Morning","18-30",0
+"CR10271",2019-04-19,"Karnataka","Mysuru","Vehicle Theft","None","00:26",42,"Male","Unsolved",3,2019,"Apr",0,"Night","31-45",0
+"CR10636",2019-05-13,"Uttar Pradesh","Lucknow","Kidnapping","None","23:36",29,"Female","Solved",3,2019,"May",23,"Night","18-30",1
+"CR10743",2025-09-14,"Delhi","Rohini","Vehicle Theft","None","18:32",59,"Male","Solved",2,2025,"Sep",18,"Evening","46-60",1
+"CR10210",2023-10-22,"Uttar Pradesh","Varanasi","Fraud","Online","09:25",33,"Male","Unsolved",2,2023,"Oct",9,"Morning","31-45",0
+"CR10290",2019-01-14,"Karnataka","Mangaluru","Domestic Violence","Blunt Object","07:20",23,"Female","Solved",3,2019,"Jan",7,"Morning","18-30",1
+"CR10143",2025-04-09,"Maharashtra","Nagpur","Burglary","None","16:57",31,"Male","Unsolved",1,2025,"Apr",16,"Afternoon","31-45",0
+"CR10051",2020-07-19,"Telangana","Warangal","Robbery","Knife","01:34",33,"Male","Solved",2,2020,"Jul",1,"Night","31-45",1
+"CR10167",2025-08-27,"Uttar Pradesh","Varanasi","Theft","None","09:19",29,"Female","Unsolved",1,2025,"Aug",9,"Morning","18-30",0
+"CR10628",2019-11-26,"Tamil Nadu","Salem","Vehicle Theft","None","00:00",21,"Male","Unsolved",1,2019,"Nov",0,"Night","18-30",0
+"CR10978",2022-02-20,"Tamil Nadu","Salem","Murder","Firearm","01:20",43,"Female","Unsolved",2,2022,"Feb",1,"Night","31-45",0
+"CR10082",2022-10-17,"Telangana","Hyderabad","Vehicle Theft","None","10:17",31,"Male","Unsolved",2,2022,"Oct",10,"Morning","31-45",0
+"CR10340",2025-06-02,"Telangana","Hyderabad","Theft","None","16:54",52,"Male","Solved",1,2025,"Jun",16,"Afternoon","46-60",1
+"CR10695",2025-06-20,"Gujarat","Surat","Kidnapping","None","18:14",29,"Male","Solved",3,2025,"Jun",18,"Evening","18-30",1
+"CR10912",2025-11-05,"Delhi","New Delhi","Theft","None","00:51",51,"Male","Unsolved",3,2025,"Nov",0,"Night","46-60",0
+"CR10067",2023-11-04,"Maharashtra","Nashik","Assault","Blunt Object","09:33",51,"Female","Solved",2,2023,"Nov",9,"Morning","46-60",1
+"CR10532",2024-09-12,"Tamil Nadu","Coimbatore","Theft","None","07:31",41,"Male","Unsolved",2,2024,"Sep",7,"Morning","31-45",0
+"CR10663",2020-08-09,"Maharashtra","Mumbai","Cyber Crime","Online","06:06",35,"Male","Solved",1,2020,"Aug",6,"Morning","31-45",1
+"CR10509",2023-03-01,"Karnataka","Mangaluru","Theft","None","19:17",20,"Male","Unsolved",1,2023,"Mar",19,"Evening","18-30",0
+"CR10541",2025-12-19,"Rajasthan","Jaipur","Murder","Knife","18:30",33,"Female","Solved",1,2025,"Dec",18,"Evening","31-45",1
+"CR10284",2021-07-08,"Uttar Pradesh","Kanpur","Domestic Violence","None","17:44",43,"Female","Solved",3,2021,"Jul",17,"Afternoon","31-45",1
+"CR10882",2023-10-10,"West Bengal","Siliguri","Theft","None","18:38",38,"Female","Unsolved",3,2023,"Oct",18,"Evening","31-45",0
+"CR10519",2019-04-02,"Uttar Pradesh","Noida","Fraud","None","14:10",30,"Male","Solved",1,2019,"Apr",14,"Afternoon","18-30",1
+"CR10065",2023-08-13,"Rajasthan","Udaipur","Domestic Violence","None","14:29",49,"Male","Solved",2,2023,"Aug",14,"Afternoon","46-60",1
+"CR10654",2021-07-22,"West Bengal","Siliguri","Theft","None","23:23",29,"Female","Unsolved",1,2021,"Jul",23,"Night","18-30",0
+"CR10265",2025-04-14,"West Bengal","Kolkata","Theft","None","01:47",37,"Male","Solved",3,2025,"Apr",1,"Night","31-45",1
+"CR10774",2025-09-26,"Delhi","Rohini","Robbery","None","19:38",33,"Male","Unsolved",1,2025,"Sep",19,"Evening","31-45",0
+"CR10583",2019-06-25,"Telangana","Warangal","Theft","None","12:28",49,"Male","Solved",1,2019,"Jun",12,"Afternoon","46-60",1
+"CR10515",2021-06-03,"Delhi","New Delhi","Burglary","None","02:26",17,"Male","Solved",1,2021,"Jun",2,"Night","0-17",1
+"CR10021",2024-07-16,"Delhi","Rohini","Assault","Blunt Object","07:05",26,"Female","Solved",2,2024,"Jul",7,"Morning","18-30",1
+"CR10859",2022-08-07,"Tamil Nadu","Coimbatore","Theft","None","08:56",49,"Male","Solved",3,2022,"Aug",8,"Morning","46-60",1
+"CR10776",2025-03-21,"West Bengal","Siliguri","Burglary","Crowbar","22:42",30,"Male","Unsolved",2,2025,"Mar",22,"Night","18-30",0
+"CR10703",2020-06-05,"West Bengal","Howrah","Vehicle Theft","None","13:27",18,"Male","Unsolved",1,2020,"Jun",13,"Afternoon","18-30",0
+"CR10297",2025-06-03,"Tamil Nadu","Madurai","Vehicle Theft","None","21:59",38,"Male","Solved",1,2025,"Jun",21,"Evening","31-45",1
+"CR10617",2024-02-06,"Uttar Pradesh","Lucknow","Theft","None","20:12",43,"Female","Unsolved",3,2024,"Feb",20,"Evening","31-45",0
+"CR10969",2023-12-12,"Uttar Pradesh","Lucknow","Fraud","Online","18:34",20,"Male","Unsolved",3,2023,"Dec",18,"Evening","18-30",0
+"CR10262",2025-02-13,"Maharashtra","Nagpur","Cyber Crime","Online","15:43",47,"Female","Unsolved",3,2025,"Feb",15,"Afternoon","46-60",0
+"CR10659",2023-07-11,"Maharashtra","Mumbai","Burglary","Crowbar","19:17",33,"Male","Unsolved",1,2023,"Jul",19,"Evening","31-45",0
+"CR10505",2023-06-22,"Tamil Nadu","Salem","Vehicle Theft","None","18:08",24,"Female","Unsolved",2,2023,"Jun",18,"Evening","18-30",0
+"CR10982",2025-11-18,"Kerala","Kochi","Assault","None","00:01",55,"Female","Unsolved",1,2025,"Nov",0,"Night","46-60",0
+"CR10813",2025-12-26,"Gujarat","Ahmedabad","Robbery","None","13:18",43,"Male","Unsolved",1,2025,"Dec",13,"Afternoon","31-45",0
+"CR10474",2020-10-08,"Uttar Pradesh","Lucknow","Assault","None","07:31",50,"Male","Solved",2,2020,"Oct",7,"Morning","46-60",1
+"CR10834",2024-05-26,"Gujarat","Vadodara","Assault","None","00:29",45,"Male","Unsolved",3,2024,"May",0,"Night","31-45",0
+"CR10189",2024-01-19,"Gujarat","Ahmedabad","Assault","Blunt Object","20:12",13,"Male","Unsolved",2,2024,"Jan",20,"Evening","0-17",0
+"CR10252",2025-12-23,"Uttar Pradesh","Noida","Vehicle Theft","None","13:58",34,"Male","Solved",1,2025,"Dec",13,"Afternoon","31-45",1
+"CR10072",2022-10-03,"Maharashtra","Pune","Assault","Blunt Object","05:44",21,"Male","Solved",3,2022,"Oct",5,"Night","18-30",1
+"CR10734",2022-01-12,"Tamil Nadu","Madurai","Burglary","Crowbar","07:42",20,"Female","Unsolved",3,2022,"Jan",7,"Morning","18-30",0
+"CR10376",2020-03-17,"Uttar Pradesh","Noida","Theft","None","01:24",20,"Female","Unsolved",2,2020,"Mar",1,"Night","18-30",0
+"CR10345",2024-03-06,"Tamil Nadu","Trichy","Cyber Crime","Online","16:19",34,"Male","Solved",3,2024,"Mar",16,"Afternoon","31-45",1
+"CR10784",2023-12-04,"Uttar Pradesh","Lucknow","Drug Offence","None","22:46",37,"Male","Solved",3,2023,"Dec",22,"Night","31-45",1
+"CR10362",2019-01-07,"Tamil Nadu","Trichy","Cyber Crime","Online","14:24",18,"Female","Unsolved",1,2019,"Jan",14,"Afternoon","18-30",0
+"CR10946",2021-09-27,"Uttar Pradesh","Varanasi","Domestic Violence","None","12:46",13,"Female","Solved",2,2021,"Sep",12,"Afternoon","0-17",1
+"CR10942",2025-09-20,"Gujarat","Surat","Murder","Firearm","15:15",39,"Female","Unsolved",1,2025,"Sep",15,"Afternoon","31-45",0
+"CR10373",2022-09-25,"Kerala","Thiruvananthapuram","Fraud","None","16:01",40,"Female","Unsolved",3,2022,"Sep",16,"Afternoon","31-45",0
+"CR10412",2024-05-19,"Uttar Pradesh","Varanasi","Domestic Violence","None","07:25",44,"Female","Unsolved",1,2024,"May",7,"Morning","31-45",0
+"CR10563",2025-01-04,"Kerala","Kozhikode","Burglary","Crowbar","08:23",30,"Male","Solved",2,2025,"Jan",8,"Morning","18-30",1
+"CR10738",2021-08-10,"Gujarat","Ahmedabad","Burglary","None","14:16",31,"Male","Unsolved",2,2021,"Aug",14,"Afternoon","31-45",0
+"CR10466",2024-11-21,"Karnataka","Mysuru","Assault","Knife","01:59",27,"Male","Unsolved",2,2024,"Nov",1,"Night","18-30",0
+"CR10453",2024-01-01,"Maharashtra","Pune","Theft","None","18:41",34,"Male","Solved",3,2024,"Jan",18,"Evening","31-45",1
+"CR10684",2022-10-23,"Gujarat","Vadodara","Assault","Blunt Object","21:30",8,"Female","Unsolved",2,2022,"Oct",21,"Evening","0-17",0
+"CR10400",2022-12-14,"Delhi","New Delhi","Kidnapping","Firearm","00:00",27,"Female","Solved",1,2022,"Dec",0,"Night","18-30",1
+"CR10363",2019-04-20,"Delhi","Rohini","Fraud","None","23:07",35,"Female","Unsolved",3,2019,"Apr",23,"Night","31-45",0
+"CR10599",2025-12-18,"Uttar Pradesh","Noida","Assault","None","21:54",24,"Male","Solved",2,2025,"Dec",21,"Evening","18-30",1
+"CR10456",2020-04-20,"Maharashtra","Nagpur","Robbery","Firearm","04:20",46,"Male","Unsolved",1,2020,"Apr",4,"Night","46-60",0
+"CR10219",2025-02-19,"Delhi","New Delhi","Robbery","Knife","21:33",37,"Female","Unsolved",1,2025,"Feb",21,"Evening","31-45",0
+"CR10240",2019-08-08,"Karnataka","Hubli","Theft","None","23:57",37,"Female","Unsolved",2,2019,"Aug",23,"Night","31-45",0
+"CR10527",2025-03-05,"Gujarat","Surat","Cyber Crime","Online","01:09",21,"Male","Unsolved",2,2025,"Mar",1,"Night","18-30",0
+"CR10531",2024-02-13,"Uttar Pradesh","Lucknow","Burglary","None","06:46",23,"Female","Solved",3,2024,"Feb",6,"Morning","18-30",1
+"CR10193",2020-08-08,"West Bengal","Howrah","Fraud","Online","08:03",35,"Female","Unsolved",3,2020,"Aug",8,"Morning","31-45",0
+"CR10490",2023-11-09,"Uttar Pradesh","Varanasi","Assault","None","21:16",43,"Female","Solved",3,2023,"Nov",21,"Evening","31-45",1
+"CR10192",2021-03-15,"Delhi","Rohini","Kidnapping","Firearm","11:05",25,"Female","Solved",2,2021,"Mar",11,"Morning","18-30",1
+"CR10348",2021-11-15,"Gujarat","Surat","Assault","Knife","20:15",33,"Female","Solved",2,2021,"Nov",20,"Evening","31-45",1
+"CR10673",2025-11-17,"Rajasthan","Jodhpur","Cyber Crime","Online","19:21",16,"Male","Unsolved",1,2025,"Nov",19,"Evening","0-17",0
+"CR10452",2025-11-15,"Maharashtra","Mumbai","Murder","Firearm","04:14",36,"Male","Solved",1,2025,"Nov",4,"Night","31-45",1
+"CR10133",2023-11-02,"Delhi","Dwarka","Assault","None","13:55",34,"Male","Unsolved",2,2023,"Nov",13,"Afternoon","31-45",0
+"CR10714",2025-01-22,"Gujarat","Vadodara","Cyber Crime","Online","00:19",24,"Male","Unsolved",2,2025,"Jan",0,"Night","18-30",0
+"CR10253",2022-08-10,"Uttar Pradesh","Noida","Cyber Crime","Online","03:47",73,"Male","Solved",1,2022,"Aug",3,"Night","60+",1
+"CR10678",2023-06-15,"Uttar Pradesh","Varanasi","Assault","Blunt Object","20:53",18,"Female","Unsolved",3,2023,"Jun",20,"Evening","18-30",0
+"CR10771",2021-11-10,"Rajasthan","Udaipur","Burglary","None","18:15",33,"Female","Unsolved",3,2021,"Nov",18,"Evening","31-45",0
+"CR10264",2020-12-02,"Tamil Nadu","Madurai","Theft","None","22:35",27,"Male","Unsolved",2,2020,"Dec",22,"Night","18-30",0
+"CR10071",2020-11-24,"Tamil Nadu","Coimbatore","Cyber Crime","Online","23:43",38,"Male","Unsolved",3,2020,"Nov",23,"Night","31-45",0
+"CR10273",2019-03-16,"Delhi","Rohini","Vehicle Theft","None","14:14",31,"Male","Unsolved",3,2019,"Mar",14,"Afternoon","31-45",0
+"CR10977",2022-04-03,"Uttar Pradesh","Varanasi","Fraud","Online","13:36",17,"Male","Unsolved",1,2022,"Apr",13,"Afternoon","0-17",0
+"CR10328",2023-05-07,"Maharashtra","Nashik","Cyber Crime","Online","08:50",9,"Male","Unsolved",1,2023,"May",8,"Morning","0-17",0
+"CR10116",2025-09-04,"Kerala","Kochi","Theft","None","14:25",44,"Male","Solved",1,2025,"Sep",14,"Afternoon","31-45",1
+"CR10324",2023-04-23,"Uttar Pradesh","Noida","Assault","None","18:26",29,"Male","Solved",3,2023,"Apr",18,"Evening","18-30",1
+"CR10670",2022-04-13,"Maharashtra","Mumbai","Cyber Crime","Online","00:13",29,"Female","Solved",3,2022,"Apr",0,"Night","18-30",1
+"CR10492",2024-08-02,"Maharashtra","Nashik","Theft","None","09:17",42,"Male","Solved",2,2024,"Aug",9,"Morning","31-45",1
+"CR10421",2024-05-22,"West Bengal","Siliguri","Burglary","Crowbar","09:00",39,"Female","Unsolved",2,2024,"May",9,"Morning","31-45",0
+"CR10627",2024-11-03,"Delhi","New Delhi","Assault","None","12:34",10,"Female","Solved",2,2024,"Nov",12,"Afternoon","0-17",1
+"CR10781",2021-06-07,"Uttar Pradesh","Kanpur","Domestic Violence","Blunt Object","17:18",47,"Female","Unsolved",1,2021,"Jun",17,"Afternoon","46-60",0
+"CR10447",2025-03-14,"Maharashtra","Nashik","Burglary","Crowbar","20:59",45,"Female","Unsolved",2,2025,"Mar",20,"Evening","31-45",0
+"CR10460",2023-04-21,"Tamil Nadu","Madurai","Theft","None","21:14",40,"Male","Unsolved",1,2023,"Apr",21,"Evening","31-45",0
+"CR10878",2021-06-06,"Maharashtra","Pune","Assault","Knife","03:36",36,"Male","Solved",3,2021,"Jun",3,"Night","31-45",1
+"CR10454",2020-12-17,"Maharashtra","Mumbai","Robbery","Firearm","20:39",27,"Female","Solved",1,2020,"Dec",20,"Evening","18-30",1
+"CR10279",2025-12-10,"Maharashtra","Pune","Cyber Crime","Online","08:00",21,"Male","Unsolved",1,2025,"Dec",8,"Morning","18-30",0
+"CR10793",2021-05-12,"Tamil Nadu","Coimbatore","Vehicle Theft","None","03:29",33,"Female","Unsolved",1,2021,"May",3,"Night","31-45",0
+"CR10901",2022-05-10,"Kerala","Kozhikode","Assault","None","20:30",16,"Male","Solved",1,2022,"May",20,"Evening","0-17",1
+"CR10003",2025-12-24,"Tamil Nadu","Trichy","Vehicle Theft","None","19:26",41,"Male","Unsolved",1,2025,"Dec",19,"Evening","31-45",0
+"CR10230",2019-10-08,"Rajasthan","Jaipur","Kidnapping","None","19:05",39,"Female","Unsolved",2,2019,"Oct",19,"Evening","31-45",0
+"CR10995",2025-04-10,"Rajasthan","Jodhpur","Burglary","Crowbar","12:35",48,"Male","Solved",2,2025,"Apr",12,"Afternoon","46-60",1
+"CR10937",2025-10-21,"Telangana","Hyderabad","Burglary","Crowbar","11:59",20,"Male","Unsolved",1,2025,"Oct",11,"Morning","18-30",0
+"CR10970",2020-03-13,"Tamil Nadu","Salem","Cyber Crime","Online","14:31",33,"Female","Solved",3,2020,"Mar",14,"Afternoon","31-45",1
+"CR10865",2019-06-17,"Uttar Pradesh","Kanpur","Cyber Crime","Online","00:19",54,"Male","Solved",3,2019,"Jun",0,"Night","46-60",1
+"CR10200",2021-03-06,"Karnataka","Hubli","Theft","None","07:29",9,"Female","Solved",2,2021,"Mar",7,"Morning","0-17",1
+"CR10372",2021-03-13,"Gujarat","Surat","Theft","None","00:34",16,"Female","Solved",3,2021,"Mar",0,"Night","0-17",1
+"CR10867",2025-08-12,"Karnataka","Bengaluru","Robbery","None","04:51",36,"Female","Unsolved",1,2025,"Aug",4,"Night","31-45",0
+"CR10710",2022-07-19,"Tamil Nadu","Salem","Burglary","None","06:46",56,"Male","Solved",1,2022,"Jul",6,"Morning","46-60",1
+"CR10066",2023-05-13,"Delhi","Dwarka","Domestic Violence","Blunt Object","02:59",21,"Female","Unsolved",3,2023,"May",2,"Night","18-30",0
+"CR10506",2024-01-11,"Delhi","Rohini","Assault","Knife","19:02",43,"Female","Solved",3,2024,"Jan",19,"Evening","31-45",1
+"CR10041",2022-11-23,"Gujarat","Ahmedabad","Burglary","None","21:26",31,"Male","Unsolved",3,2022,"Nov",21,"Evening","31-45",0
+"CR10749",2024-12-02,"Uttar Pradesh","Lucknow","Drug Offence","None","18:54",43,"Male","Solved",1,2024,"Dec",18,"Evening","31-45",1
+"CR10485",2019-06-25,"Delhi","Dwarka","Robbery","Firearm","02:15",40,"Male","Solved",1,2019,"Jun",2,"Night","31-45",1
+"CR10818",2023-11-20,"Uttar Pradesh","Varanasi","Cyber Crime","Online","13:13",33,"Female","Unsolved",1,2023,"Nov",13,"Afternoon","31-45",0
+"CR10779",2024-06-20,"Tamil Nadu","Madurai","Cyber Crime","Online","11:41",32,"Female","Unsolved",1,2024,"Jun",11,"Morning","31-45",0
+"CR10956",2025-11-25,"Gujarat","Ahmedabad","Theft","None","18:14",49,"Male","Solved",1,2025,"Nov",18,"Evening","46-60",1
+"CR10568",2019-03-28,"Karnataka","Mangaluru","Burglary","Crowbar","04:15",30,"Male","Unsolved",3,2019,"Mar",4,"Night","18-30",0
+"CR10274",2023-08-01,"West Bengal","Siliguri","Theft","None","02:55",29,"Female","Solved",2,2023,"Aug",2,"Night","18-30",1
+"CR10701",2021-02-23,"West Bengal","Siliguri","Burglary","None","20:44",52,"Female","Unsolved",1,2021,"Feb",20,"Evening","46-60",0
+"CR10822",2023-02-28,"Uttar Pradesh","Noida","Robbery","Firearm","01:47",53,"Male","Unsolved",3,2023,"Feb",1,"Night","46-60",0
+"CR10494",2021-11-10,"Karnataka","Bengaluru","Theft","None","17:35",21,"Male","Solved",3,2021,"Nov",17,"Afternoon","18-30",1
+"CR10976",2023-09-18,"Karnataka","Mangaluru","Theft","None","18:40",30,"Male","Solved",3,2023,"Sep",18,"Evening","18-30",1
+"CR10178",2025-06-04,"Telangana","Warangal","Burglary","Crowbar","19:01",41,"Male","Unsolved",3,2025,"Jun",19,"Evening","31-45",0
+"CR10301",2024-09-26,"Karnataka","Mangaluru","Theft","None","23:18",24,"Male","Unsolved",1,2024,"Sep",23,"Night","18-30",0
+"CR10038",2022-12-10,"Gujarat","Vadodara","Cyber Crime","Online","09:22",28,"Female","Unsolved",1,2022,"Dec",9,"Morning","18-30",0
+"CR10493",2024-09-10,"Maharashtra","Nagpur","Vehicle Theft","None","13:02",52,"Male","Unsolved",3,2024,"Sep",13,"Afternoon","46-60",0
+"CR10203",2023-11-05,"West Bengal","Kolkata","Burglary","None","18:07",34,"Male","Solved",3,2023,"Nov",18,"Evening","31-45",1
+"CR10237",2022-12-02,"West Bengal","Siliguri","Vehicle Theft","None","22:46",27,"Female","Unsolved",1,2022,"Dec",22,"Night","18-30",0
+"CR10150",2019-04-17,"Rajasthan","Jodhpur","Theft","None","12:59",31,"Male","Solved",1,2019,"Apr",12,"Afternoon","31-45",1
+"CR10218",2020-05-19,"Telangana","Warangal","Theft","None","22:31",33,"Female","Solved",2,2020,"May",22,"Night","31-45",1
+"CR10680",2022-11-09,"Karnataka","Mysuru","Cyber Crime","Online","13:51",38,"Male","Unsolved",1,2022,"Nov",13,"Afternoon","31-45",0
+"CR10408",2025-07-26,"Maharashtra","Nagpur","Vehicle Theft","None","04:18",65,"Female","Solved",3,2025,"Jul",4,"Night","60+",1
+"CR10552",2020-08-18,"Tamil Nadu","Madurai","Vehicle Theft","None","16:56",48,"Male","Unsolved",1,2020,"Aug",16,"Afternoon","46-60",0
+"CR10614",2025-07-20,"Gujarat","Surat","Kidnapping","Firearm","05:55",34,"Male","Solved",3,2025,"Jul",5,"Night","31-45",1
+"CR10787",2025-08-23,"Uttar Pradesh","Noida","Vehicle Theft","None","05:09",50,"Female","Unsolved",2,2025,"Aug",5,"Night","46-60",0
+"CR10303",2023-01-19,"Maharashtra","Nashik","Assault","Blunt Object","08:18",55,"Male","Solved",2,2023,"Jan",8,"Morning","46-60",1
+"CR10864",2023-01-05,"Uttar Pradesh","Lucknow","Cyber Crime","Online","00:21",59,"Male","Solved",1,2023,"Jan",0,"Night","46-60",1
+"CR10929",2023-05-07,"Maharashtra","Mumbai","Burglary","Crowbar","16:27",48,"Male","Unsolved",1,2023,"May",16,"Afternoon","46-60",0
+"CR10674",2024-09-24,"Telangana","Warangal","Assault","None","19:44",53,"Female","Unsolved",3,2024,"Sep",19,"Evening","46-60",0
+"CR10936",2020-01-27,"Maharashtra","Nagpur","Theft","None","00:08",19,"Female","Unsolved",1,2020,"Jan",0,"Night","18-30",0
+"CR10389",2019-09-23,"West Bengal","Howrah","Burglary","None","15:22",24,"Female","Unsolved",3,2019,"Sep",15,"Afternoon","18-30",0
+"CR10423",2019-06-28,"Delhi","Rohini","Assault","Knife","03:26",45,"Male","Solved",1,2019,"Jun",3,"Night","31-45",1
+"CR10388",2025-02-22,"Delhi","New Delhi","Burglary","Crowbar","14:50",50,"Female","Solved",3,2025,"Feb",14,"Afternoon","46-60",1
+"CR10778",2020-12-09,"Kerala","Thiruvananthapuram","Robbery","None","20:09",37,"Female","Solved",3,2020,"Dec",20,"Evening","31-45",1
+"CR10391",2023-04-01,"Delhi","New Delhi","Theft","None","18:18",73,"Female","Solved",2,2023,"Apr",18,"Evening","60+",1
+"CR10857",2024-03-05,"Delhi","New Delhi","Fraud","Online","12:03",40,"Male","Solved",3,2024,"Mar",12,"Afternoon","31-45",1
+"CR10353",2023-09-03,"Delhi","New Delhi","Vehicle Theft","None","16:28",25,"Male","Solved",1,2023,"Sep",16,"Afternoon","18-30",1
+"CR10194",2025-03-28,"Gujarat","Ahmedabad","Domestic Violence","None","00:40",31,"Female","Solved",2,2025,"Mar",0,"Night","31-45",1
+"CR10236",2024-03-05,"Maharashtra","Nashik","Assault","None","13:00",18,"Female","Solved",2,2024,"Mar",13,"Afternoon","18-30",1
+"CR10443",2024-10-07,"Uttar Pradesh","Kanpur","Assault","Knife","03:42",54,"Female","Solved",3,2024,"Oct",3,"Night","46-60",1
+"CR10921",2019-05-23,"Maharashtra","Pune","Theft","None","06:35",32,"Male","Solved",3,2019,"May",6,"Morning","31-45",1
+"CR10056",2024-09-17,"Karnataka","Mangaluru","Theft","None","23:38",53,"Female","Unsolved",3,2024,"Sep",23,"Night","46-60",0
+"CR10768",2019-03-02,"Maharashtra","Nashik","Murder","Blunt Object","14:27",37,"Male","Solved",2,2019,"Mar",14,"Afternoon","31-45",1
+"CR10097",2022-12-05,"Rajasthan","Udaipur","Fraud","Online","11:09",30,"Male","Unsolved",1,2022,"Dec",11,"Morning","18-30",0
+"CR10142",2023-04-27,"Delhi","Dwarka","Burglary","None","01:11",21,"Male","Unsolved",3,2023,"Apr",1,"Night","18-30",0
+"CR10702",2021-12-24,"Gujarat","Surat","Kidnapping","Firearm","21:35",54,"Male","Solved",2,2021,"Dec",21,"Evening","46-60",1
+"CR10868",2024-08-04,"Uttar Pradesh","Noida","Fraud","None","05:07",22,"Female","Unsolved",1,2024,"Aug",5,"Night","18-30",0
+"CR10645",2023-07-15,"Delhi","Rohini","Cyber Crime","Online","23:22",47,"Male","Unsolved",3,2023,"Jul",23,"Night","46-60",0
+"CR10573",2022-10-15,"Rajasthan","Udaipur","Drug Offence","None","21:06",33,"Female","Solved",3,2022,"Oct",21,"Evening","31-45",1
+"CR10121",2023-06-03,"Maharashtra","Nashik","Assault","Blunt Object","23:56",42,"Male","Solved",3,2023,"Jun",23,"Night","31-45",1
+"CR10602",2024-10-01,"Tamil Nadu","Coimbatore","Robbery","None","18:45",50,"Female","Solved",2,2024,"Oct",18,"Evening","46-60",1
+"CR10569",2022-08-10,"Uttar Pradesh","Varanasi","Theft","None","12:21",47,"Male","Solved",2,2022,"Aug",12,"Afternoon","46-60",1
+"CR10063",2023-03-14,"Maharashtra","Nagpur","Kidnapping","None","10:42",35,"Male","Solved",1,2023,"Mar",10,"Morning","31-45",1
+"CR10890",2024-10-08,"Rajasthan","Udaipur","Domestic Violence","None","23:18",57,"Female","Unsolved",2,2024,"Oct",23,"Night","46-60",0
+"CR10652",2025-08-02,"Gujarat","Surat","Murder","Firearm","21:22",34,"Male","Solved",1,2025,"Aug",21,"Evening","31-45",1
+"CR10415",2019-04-11,"Delhi","New Delhi","Burglary","None","09:41",36,"Male","Solved",1,2019,"Apr",9,"Morning","31-45",1
+"CR10004",2024-04-11,"Maharashtra","Nashik","Murder","Blunt Object","13:54",38,"Female","Solved",1,2024,"Apr",13,"Afternoon","31-45",1
+"CR10059",2020-03-17,"Karnataka","Mangaluru","Theft","None","18:33",5,"Female","Solved",1,2020,"Mar",18,"Evening","0-17",1
+"CR10224",2025-07-01,"Kerala","Kozhikode","Domestic Violence","Blunt Object","23:55",18,"Female","Solved",2,2025,"Jul",23,"Night","18-30",1
+"CR10620",2019-08-26,"Uttar Pradesh","Varanasi","Cyber Crime","Online","10:23",55,"Male","Unsolved",3,2019,"Aug",10,"Morning","46-60",0
+"CR10102",2024-07-04,"Karnataka","Mangaluru","Assault","Blunt Object","07:58",34,"Male","Solved",1,2024,"Jul",7,"Morning","31-45",1
+"CR10724",2025-09-14,"Kerala","Kochi","Theft","None","04:07",54,"Male","Unsolved",3,2025,"Sep",4,"Night","46-60",0
+"CR10222",2022-08-01,"Telangana","Warangal","Domestic Violence","None","04:32",39,"Female","Solved",3,2022,"Aug",4,"Night","31-45",1
+"CR10830",2021-01-17,"Maharashtra","Mumbai","Theft","None","04:30",39,"Female","Solved",3,2021,"Jan",4,"Night","31-45",1
+"CR10005",2019-06-06,"Maharashtra","Nagpur","Assault","None","14:39",34,"Male","Unsolved",3,2019,"Jun",14,"Afternoon","31-45",0
+"CR10053",2024-02-14,"Delhi","New Delhi","Vehicle Theft","None","12:36",31,"Male","Solved",1,2024,"Feb",12,"Afternoon","31-45",1
+"CR10018",2019-06-07,"Karnataka","Hubli","Vehicle Theft","None","02:30",33,"Male","Solved",1,2019,"Jun",2,"Night","31-45",1
+"CR10748",2022-04-18,"Rajasthan","Udaipur","Vehicle Theft","None","09:58",9,"Male","Solved",3,2022,"Apr",9,"Morning","0-17",1
+"CR10916",2025-02-09,"Rajasthan","Jaipur","Assault","Knife","00:42",12,"Male","Solved",2,2025,"Feb",0,"Night","0-17",1
+"CR10307",2022-01-21,"Karnataka","Hubli","Cyber Crime","Online","05:25",46,"Male","Unsolved",2,2022,"Jan",5,"Night","46-60",0
+"CR10667",2024-08-07,"Maharashtra","Nagpur","Vehicle Theft","None","23:12",14,"Female","Unsolved",1,2024,"Aug",23,"Night","0-17",0
+"CR10156",2024-05-05,"Gujarat","Vadodara","Assault","None","21:49",40,"Female","Solved",2,2024,"May",21,"Evening","31-45",1
+"CR10964",2020-01-04,"Karnataka","Bengaluru","Cyber Crime","Online","23:10",33,"Male","Solved",1,2020,"Jan",23,"Night","31-45",1
+"CR10681",2019-07-17,"Uttar Pradesh","Varanasi","Assault","Blunt Object","08:42",27,"Male","Solved",3,2019,"Jul",8,"Morning","18-30",1
+"CR10644",2021-08-03,"Tamil Nadu","Chennai","Theft","None","22:37",25,"Female","Unsolved",3,2021,"Aug",22,"Night","18-30",0
+"CR10249",2022-02-25,"Maharashtra","Nagpur","Cyber Crime","Online","22:00",35,"Male","Solved",1,2022,"Feb",22,"Night","31-45",1
+"CR10250",2022-01-28,"West Bengal","Kolkata","Vehicle Theft","None","03:14",43,"Male","Solved",2,2022,"Jan",3,"Night","31-45",1
+"CR10359",2023-02-15,"Gujarat","Vadodara","Domestic Violence","Blunt Object","13:30",26,"Male","Solved",2,2023,"Feb",13,"Afternoon","18-30",1
+"CR10479",2023-02-05,"Rajasthan","Udaipur","Drug Offence","None","14:59",50,"Female","Solved",1,2023,"Feb",14,"Afternoon","46-60",1
+"CR10431",2025-04-12,"Tamil Nadu","Chennai","Theft","None","01:26",21,"Male","Solved",3,2025,"Apr",1,"Night","18-30",1
+"CR10442",2020-05-07,"Delhi","Rohini","Assault","Knife","08:17",57,"Female","Solved",2,2020,"May",8,"Morning","46-60",1
+"CR10821",2019-11-08,"Uttar Pradesh","Noida","Assault","None","13:42",11,"Female","Unsolved",2,2019,"Nov",13,"Afternoon","0-17",0
+"CR10854",2025-12-26,"Rajasthan","Jodhpur","Cyber Crime","Online","16:21",36,"Female","Unsolved",1,2025,"Dec",16,"Afternoon","31-45",0
+"CR10031",2024-04-14,"Uttar Pradesh","Noida","Domestic Violence","None","04:58",19,"Female","Solved",3,2024,"Apr",4,"Night","18-30",1
+"CR10282",2020-05-01,"Kerala","Kozhikode","Domestic Violence","Blunt Object","18:48",27,"Female","Unsolved",2,2020,"May",18,"Evening","18-30",0
+"CR10877",2022-01-03,"Delhi","Rohini","Theft","None","12:13",39,"Male","Solved",2,2022,"Jan",12,"Afternoon","31-45",1
+"CR10975",2021-03-04,"Uttar Pradesh","Lucknow","Theft","None","00:06",19,"Female","Unsolved",2,2021,"Mar",0,"Night","18-30",0
+"CR10118",2024-10-01,"Delhi","Dwarka","Cyber Crime","Online","00:44",36,"Male","Unsolved",1,2024,"Oct",0,"Night","31-45",0
+"CR10881",2022-02-27,"Karnataka","Mysuru","Cyber Crime","Online","12:45",66,"Female","Solved",2,2022,"Feb",12,"Afternoon","60+",1
+"CR10117",2024-09-18,"Maharashtra","Pune","Theft","None","00:39",54,"Male","Solved",3,2024,"Sep",0,"Night","46-60",1
+"CR10759",2019-12-02,"Karnataka","Bengaluru","Domestic Violence","Blunt Object","20:10",38,"Female","Solved",3,2019,"Dec",20,"Evening","31-45",1
+"CR10669",2021-04-13,"Maharashtra","Nagpur","Cyber Crime","Online","00:22",29,"Male","Unsolved",2,2021,"Apr",0,"Night","18-30",0
+"CR10292",2019-06-25,"Delhi","New Delhi","Cyber Crime","Online","09:20",41,"Male","Unsolved",2,2019,"Jun",9,"Morning","31-45",0
+"CR10028",2019-05-06,"Maharashtra","Nagpur","Theft","None","21:10",25,"Male","Solved",2,2019,"May",21,"Evening","18-30",1
+"CR10382",2025-10-26,"Karnataka","Bengaluru","Cyber Crime","Online","07:27",33,"Female","Unsolved",3,2025,"Oct",7,"Morning","31-45",0
+"CR10308",2023-08-10,"Tamil Nadu","Coimbatore","Cyber Crime","Online","02:17",44,"Female","Unsolved",1,2023,"Aug",2,"Night","31-45",0
+"CR10511",2019-03-26,"Karnataka","Mangaluru","Robbery","Knife","14:00",46,"Female","Solved",2,2019,"Mar",14,"Afternoon","46-60",1
+"CR10598",2023-02-24,"Uttar Pradesh","Noida","Theft","None","00:38",27,"Male","Solved",1,2023,"Feb",0,"Night","18-30",1
+"CR10201",2024-11-12,"Gujarat","Vadodara","Fraud","None","18:06",35,"Female","Unsolved",2,2024,"Nov",18,"Evening","31-45",0
+"CR10719",2024-11-26,"Delhi","Dwarka","Assault","None","01:23",27,"Male","Solved",2,2024,"Nov",1,"Night","18-30",1
+"CR10386",2025-12-17,"Karnataka","Mysuru","Theft","None","22:43",43,"Male","Solved",1,2025,"Dec",22,"Night","31-45",1
+"CR10717",2023-11-10,"Tamil Nadu","Salem","Cyber Crime","Online","05:47",49,"Male","Unsolved",1,2023,"Nov",5,"Night","46-60",0
+"CR10665",2021-09-18,"West Bengal","Siliguri","Fraud","Online","08:15",33,"Male","Solved",1,2021,"Sep",8,"Morning","31-45",1
+"CR10911",2024-03-24,"Maharashtra","Mumbai","Assault","Blunt Object","22:38",55,"Male","Unsolved",3,2024,"Mar",22,"Night","46-60",0
+"CR10800",2024-09-09,"Uttar Pradesh","Kanpur","Theft","None","08:47",48,"Male","Solved",2,2024,"Sep",8,"Morning","46-60",1
+"CR10542",2023-01-06,"Telangana","Hyderabad","Drug Offence","None","00:58",32,"Female","Solved",1,2023,"Jan",0,"Night","31-45",1
+"CR10315",2022-07-06,"Tamil Nadu","Salem","Assault","Knife","19:16",19,"Male","Solved",1,2022,"Jul",19,"Evening","18-30",1
+"CR10281",2019-01-05,"West Bengal","Siliguri","Vehicle Theft","None","22:28",36,"Female","Unsolved",3,2019,"Jan",22,"Night","31-45",0
+"CR10959",2023-05-02,"Telangana","Hyderabad","Vehicle Theft","None","17:25",37,"Female","Unsolved",3,2023,"May",17,"Afternoon","31-45",0
+"CR10761",2024-04-05,"Rajasthan","Jodhpur","Assault","Knife","16:31",31,"Female","Unsolved",3,2024,"Apr",16,"Afternoon","31-45",0
+"CR10354",2023-09-22,"Gujarat","Surat","Robbery","Knife","10:30",37,"Female","Unsolved",3,2023,"Sep",10,"Morning","31-45",0
+"CR10741",2019-09-26,"Delhi","New Delhi","Fraud","Online","00:26",33,"Female","Solved",3,2019,"Sep",0,"Night","31-45",1
+"CR10208",2024-07-08,"Uttar Pradesh","Kanpur","Vehicle Theft","None","09:26",43,"Male","Unsolved",3,2024,"Jul",9,"Morning","31-45",0
+"CR10380",2024-01-18,"Tamil Nadu","Trichy","Cyber Crime","Online","01:12",59,"Female","Unsolved",3,2024,"Jan",1,"Night","46-60",0
+"CR10769",2019-10-19,"West Bengal","Siliguri","Cyber Crime","Online","16:26",39,"Male","Unsolved",3,2019,"Oct",16,"Afternoon","31-45",0
+"CR10413",2019-01-19,"Delhi","Rohini","Burglary","None","03:16",50,"Male","Unsolved",1,2019,"Jan",3,"Night","46-60",0
+"CR10797",2019-12-08,"Gujarat","Ahmedabad","Theft","None","11:39",32,"Male","Solved",3,2019,"Dec",11,"Morning","31-45",1
+"CR10024",2025-09-16,"Gujarat","Surat","Theft","None","01:42",19,"Male","Solved",1,2025,"Sep",1,"Night","18-30",1
+"CR10341",2020-08-04,"Delhi","Rohini","Theft","None","14:39",18,"Male","Solved",1,2020,"Aug",14,"Afternoon","18-30",1
+"CR10923",2023-06-04,"Delhi","Dwarka","Drug Offence","None","10:34",31,"Male","Solved",3,2023,"Jun",10,"Morning","31-45",1
+"CR10642",2024-08-15,"Karnataka","Mangaluru","Fraud","Online","19:47",33,"Female","Unsolved",2,2024,"Aug",19,"Evening","31-45",0
+"CR10155",2019-01-16,"Kerala","Kozhikode","Cyber Crime","Online","13:53",27,"Male","Unsolved",3,2019,"Jan",13,"Afternoon","18-30",0
+"CR10866",2025-12-19,"Uttar Pradesh","Varanasi","Assault","Knife","16:27",25,"Male","Unsolved",2,2025,"Dec",16,"Afternoon","18-30",0
+"CR10559",2023-09-22,"Tamil Nadu","Chennai","Cyber Crime","Online","01:50",59,"Male","Solved",3,2023,"Sep",1,"Night","46-60",1
+"CR10999",2025-12-09,"Delhi","New Delhi","Robbery","Firearm","18:33",26,"Male","Solved",3,2025,"Dec",18,"Evening","18-30",1
+"CR10791",2020-03-22,"Karnataka","Bengaluru","Fraud","None","04:55",36,"Female","Solved",1,2020,"Mar",4,"Night","31-45",1
+"CR10323",2021-10-24,"West Bengal","Howrah","Cyber Crime","Online","00:37",54,"Male","Solved",1,2021,"Oct",0,"Night","46-60",1
+"CR10545",2020-11-07,"Delhi","New Delhi","Theft","None","19:13",28,"Female","Solved",2,2020,"Nov",19,"Evening","18-30",1
+"CR10604",2024-12-24,"Telangana","Warangal","Theft","None","20:26",28,"Female","Solved",3,2024,"Dec",20,"Evening","18-30",1
+"CR10588",2021-10-21,"Gujarat","Ahmedabad","Burglary","Crowbar","09:30",39,"Male","Unsolved",1,2021,"Oct",9,"Morning","31-45",0
+"CR10083",2025-12-24,"Tamil Nadu","Madurai","Murder","Firearm","17:49",49,"Male","Solved",2,2025,"Dec",17,"Afternoon","46-60",1
+"CR10862",2024-06-07,"Gujarat","Ahmedabad","Assault","None","12:11",30,"Male","Unsolved",3,2024,"Jun",12,"Afternoon","18-30",0
+"CR10465",2023-04-12,"Delhi","Unknown","Cyber Crime","Online","23:06",48,"Male","Solved",2,2023,"Apr",23,"Night","46-60",1
+"CR10553",2020-08-08,"Uttar Pradesh","Lucknow","Vehicle Theft","None","22:27",45,"Male","Unsolved",3,2020,"Aug",22,"Night","31-45",0
+"CR10334",2025-04-12,"Delhi","Dwarka","Fraud","Online","14:55",19,"Female","Solved",1,2025,"Apr",14,"Afternoon","18-30",1
+"CR10011",2022-03-22,"Delhi","Dwarka","Robbery","Firearm","18:21",39,"Male","Unsolved",2,2022,"Mar",18,"Evening","31-45",0
+"CR10471",2022-04-16,"Delhi","Dwarka","Assault","None","07:55",39,"Female","Solved",1,2022,"Apr",7,"Morning","31-45",1
+"CR10033",2021-07-11,"Maharashtra","Pune","Fraud","Online","22:16",10,"Male","Solved",2,2021,"Jul",22,"Night","0-17",1
+"CR10783",2022-04-01,"Karnataka","Hubli","Fraud","None","00:27",40,"Male","Solved",2,2022,"Apr",0,"Night","31-45",1
+"CR10883",2025-05-20,"Gujarat","Vadodara","Kidnapping","None","16:49",53,"Male","Unsolved",1,2025,"May",16,"Afternoon","46-60",0
+"CR10383",2024-09-15,"Gujarat","Surat","Theft","None","18:10",28,"Female","Unsolved",3,2024,"Sep",18,"Evening","18-30",0
+"CR10708",2024-08-16,"Tamil Nadu","Trichy","Fraud","Online","16:32",28,"Female","Unsolved",3,2024,"Aug",16,"Afternoon","18-30",0
+"CR10557",2021-03-01,"Kerala","Kozhikode","Burglary","None","07:02",45,"Female","Unsolved",2,2021,"Mar",7,"Morning","31-45",0
+"CR10907",2023-09-22,"Tamil Nadu","Salem","Fraud","None","08:22",33,"Male","Unsolved",1,2023,"Sep",8,"Morning","31-45",0
+"CR10915",2025-10-01,"Tamil Nadu","Trichy","Theft","None","11:18",39,"Male","Unsolved",2,2025,"Oct",11,"Morning","31-45",0
+"CR10379",2022-10-08,"Uttar Pradesh","Lucknow","Vehicle Theft","None","20:54",56,"Male","Unsolved",2,2022,"Oct",20,"Evening","46-60",0
+"CR10090",2023-03-12,"Kerala","Kozhikode","Theft","None","08:38",40,"Male","Unsolved",3,2023,"Mar",8,"Morning","31-45",0
+"CR10214",2024-12-07,"Uttar Pradesh","Lucknow","Assault","None","00:24",16,"Male","Solved",1,2024,"Dec",0,"Night","0-17",1
+"CR10844",2022-11-20,"Gujarat","Vadodara","Theft","None","19:08",34,"Female","Unsolved",2,2022,"Nov",19,"Evening","31-45",0
+"CR10134",2021-10-10,"Delhi","New Delhi","Robbery","Firearm","15:33",36,"Male","Unsolved",2,2021,"Oct",15,"Afternoon","31-45",0
+"CR10347",2025-06-19,"Delhi","Rohini","Burglary","Crowbar","18:18",30,"Male","Unsolved",3,2025,"Jun",18,"Evening","18-30",0
+"CR10008",2024-07-18,"Kerala","Kochi","Burglary","Crowbar","23:32",36,"Female","Solved",2,2024,"Jul",23,"Night","31-45",1
+"CR10619",2020-04-03,"Tamil Nadu","Coimbatore","Assault","None","15:18",32,"Male","Solved",1,2020,"Apr",15,"Afternoon","31-45",1
+"CR10321",2025-01-09,"Karnataka","Mysuru","Theft","None","18:01",34,"Female","Unsolved",3,2025,"Jan",18,"Evening","31-45",0
+"CR10910",2021-08-27,"Uttar Pradesh","Noida","Kidnapping","None","09:52",19,"Male","Solved",3,2021,"Aug",9,"Morning","18-30",1
+"CR10188",2019-03-20,"West Bengal","Siliguri","Cyber Crime","Online","21:55",46,"Female","Unsolved",3,2019,"Mar",21,"Evening","46-60",0
+"CR10305",2025-06-25,"Uttar Pradesh","Kanpur","Assault","None","07:52",35,"Male","Solved",2,2025,"Jun",7,"Morning","31-45",1
+"CR10032",2025-05-23,"Uttar Pradesh","Kanpur","Theft","None","10:01",42,"Male","Unsolved",2,2025,"May",10,"Morning","31-45",0
+"CR10968",2020-08-12,"Rajasthan","Jaipur","Cyber Crime","Online","01:53",31,"Male","Solved",3,2020,"Aug",1,"Night","31-45",1
+"CR10241",2025-04-20,"Karnataka","Mangaluru","Vehicle Theft","None","10:00",32,"Female","Unsolved",2,2025,"Apr",10,"Morning","31-45",0
+"CR10729",2022-03-01,"Karnataka","Bengaluru","Domestic Violence","Blunt Object","22:11",32,"Female","Unsolved",3,2022,"Mar",22,"Night","31-45",0
+"CR10175",2020-06-05,"Rajasthan","Jaipur","Domestic Violence","Blunt Object","18:31",33,"Female","Solved",1,2020,"Jun",18,"Evening","31-45",1
+"CR10246",2025-01-05,"Maharashtra","Nagpur","Theft","None","05:46",19,"Male","Solved",3,2025,"Jan",5,"Night","18-30",1
+"CR10057",2022-01-23,"Uttar Pradesh","Noida","Domestic Violence","None","13:20",32,"Female","Solved",2,2022,"Jan",13,"Afternoon","31-45",1
+"CR10753",2021-12-03,"Delhi","Rohini","Cyber Crime","Online","22:23",17,"Female","Solved",1,2021,"Dec",22,"Night","0-17",1
+"CR10146",2021-10-17,"Gujarat","Vadodara","Theft","None","17:29",41,"Female","Unsolved",2,2021,"Oct",17,"Afternoon","31-45",0
+"CR10091",2020-11-03,"West Bengal","Kolkata","Robbery","Knife","19:14",25,"Male","Unsolved",1,2020,"Nov",19,"Evening","18-30",0
+"CR10393",2023-01-16,"Gujarat","Surat","Burglary","None","10:40",35,"Male","Unsolved",3,2023,"Jan",10,"Morning","31-45",0
+"CR10311",2022-11-26,"West Bengal","Siliguri","Domestic Violence","Blunt Object","22:51",25,"Female","Solved",1,2022,"Nov",22,"Night","18-30",1
+"CR10360",2023-06-08,"Tamil Nadu","Chennai","Assault","Blunt Object","13:03",33,"Male","Solved",1,2023,"Jun",13,"Afternoon","31-45",1
+"CR10094",2022-01-22,"Delhi","Dwarka","Fraud","Online","22:59",16,"Male","Unsolved",3,2022,"Jan",22,"Night","0-17",0
+"CR10694",2021-11-12,"Karnataka","Hubli","Fraud","None","20:19",64,"Male","Solved",2,2021,"Nov",20,"Evening","60+",1
+"CR10752",2021-11-26,"Gujarat","Vadodara","Fraud","Online","21:35",44,"Female","Unsolved",1,2021,"Nov",21,"Evening","31-45",0
+"CR10377",2025-03-13,"Uttar Pradesh","Noida","Fraud","None","15:43",41,"Female","Solved",1,2025,"Mar",15,"Afternoon","31-45",1
+"CR10244",2023-02-20,"West Bengal","Kolkata","Kidnapping","None","21:18",36,"Female","Solved",2,2023,"Feb",21,"Evening","31-45",1
+"CR10827",2023-09-22,"West Bengal","Kolkata","Robbery","None","20:49",21,"Male","Solved",2,2023,"Sep",20,"Evening","18-30",1
+"CR10088",2022-02-03,"Karnataka","Mysuru","Drug Offence","None","01:04",35,"Female","Solved",1,2022,"Feb",1,"Night","31-45",1
+"CR10215",2024-07-16,"Karnataka","Bengaluru","Theft","None","16:24",43,"Male","Solved",1,2024,"Jul",16,"Afternoon","31-45",1
+"CR10985",2020-10-09,"West Bengal","Kolkata","Vehicle Theft","None","02:08",18,"Male","Unsolved",1,2020,"Oct",2,"Night","18-30",0
+"CR10174",2025-05-05,"Karnataka","Hubli","Robbery","Firearm","04:17",51,"Male","Unsolved",3,2025,"May",4,"Night","46-60",0
+"CR10426",2024-10-08,"Uttar Pradesh","Kanpur","Assault","Blunt Object","10:54",26,"Male","Solved",2,2024,"Oct",10,"Morning","18-30",1
+"CR10777",2023-04-23,"Maharashtra","Nagpur","Cyber Crime","Online","18:37",47,"Male","Unsolved",2,2023,"Apr",18,"Evening","46-60",0
+"CR10119",2022-02-22,"Rajasthan","Jaipur","Cyber Crime","Online","20:01",39,"Female","Unsolved",1,2022,"Feb",20,"Evening","31-45",0
+"CR10120",2023-12-28,"Tamil Nadu","Trichy","Assault","None","16:00",33,"Male","Unsolved",1,2023,"Dec",16,"Afternoon","31-45",0
+"CR10720",2025-04-04,"Uttar Pradesh","Kanpur","Burglary","Crowbar","05:19",76,"Female","Unsolved",1,2025,"Apr",5,"Night","60+",0
+"CR10001",2024-11-02,"Delhi","Rohini","Theft","None","18:07",36,"Female","Solved",2,2024,"Nov",18,"Evening","31-45",1
+"CR10395",2019-08-26,"Delhi","Dwarka","Burglary","Crowbar","03:25",14,"Male","Unsolved",2,2019,"Aug",3,"Night","0-17",0
+"CR10402",2025-08-04,"Maharashtra","Nagpur","Burglary","None","20:57",22,"Male","Unsolved",3,2025,"Aug",20,"Evening","18-30",0
+"CR10405",2025-01-12,"Delhi","Rohini","Burglary","None","09:17",5,"Male","Unsolved",1,2025,"Jan",9,"Morning","0-17",0
+"CR10843",2023-01-01,"Delhi","Dwarka","Kidnapping","Firearm","23:35",20,"Male","Solved",2,2023,"Jan",23,"Night","18-30",1
+"CR10625",2025-04-12,"Kerala","Thiruvananthapuram","Kidnapping","None","14:44",22,"Female","Unsolved",3,2025,"Apr",14,"Afternoon","18-30",0
+"CR10163",2021-10-04,"Karnataka","Hubli","Theft","None","22:45",5,"Male","Unsolved",3,2021,"Oct",22,"Night","0-17",0
+"CR10115",2020-01-13,"Telangana","Hyderabad","Theft","None","21:39",33,"Male","Solved",1,2020,"Jan",21,"Evening","31-45",1
+"CR10151",2025-03-03,"Delhi","Rohini","Vehicle Theft","None","00:17",19,"Male","Solved",1,2025,"Mar",0,"Night","18-30",1
+"CR10716",2020-05-10,"Uttar Pradesh","Varanasi","Murder","Firearm","19:55",47,"Male","Solved",1,2020,"May",19,"Evening","46-60",1
+"CR10581",2023-02-07,"Maharashtra","Mumbai","Theft","None","02:43",75,"Female","Unsolved",3,2023,"Feb",2,"Night","60+",0
+"CR10807",2024-12-18,"Karnataka","Hubli","Fraud","None","01:56",42,"Male","Unsolved",1,2024,"Dec",1,"Night","31-45",0
+"CR10544",2025-05-27,"Delhi","Rohini","Burglary","None","18:09",53,"Female","Unsolved",3,2025,"May",18,"Evening","46-60",0
+"CR10478",2023-05-02,"Gujarat","Ahmedabad","Cyber Crime","Online","21:01",6,"Female","Unsolved",3,2023,"May",21,"Evening","0-17",0
+"CR10533",2022-08-20,"Uttar Pradesh","Noida","Vehicle Theft","None","12:34",18,"Male","Unsolved",1,2022,"Aug",12,"Afternoon","18-30",0
+"CR10991",2023-06-21,"Tamil Nadu","Trichy","Assault","Knife","14:20",25,"Male","Solved",1,2023,"Jun",14,"Afternoon","18-30",1
+"CR10591",2025-12-15,"Maharashtra","Nagpur","Assault","Knife","14:39",30,"Male","Unsolved",3,2025,"Dec",14,"Afternoon","18-30",0
+"CR10962",2022-10-08,"Karnataka","Mangaluru","Cyber Crime","Online","22:23",18,"Male","Unsolved",1,2022,"Oct",22,"Night","18-30",0
+"CR10259",2019-01-14,"Maharashtra","Mumbai","Theft","None","20:13",18,"Male","Unsolved",1,2019,"Jan",20,"Evening","18-30",0
+"CR10849",2020-04-04,"West Bengal","Siliguri","Theft","None","04:56",25,"Male","Solved",1,2020,"Apr",4,"Night","18-30",1
+"CR10136",2019-03-23,"Uttar Pradesh","Kanpur","Vehicle Theft","None","02:15",39,"Female","Solved",2,2019,"Mar",2,"Night","31-45",1
+"CR10955",2025-01-05,"Maharashtra","Mumbai","Assault","None","13:44",48,"Female","Solved",2,2025,"Jan",13,"Afternoon","46-60",1
+"CR10900",2023-05-15,"Kerala","Kochi","Burglary","None","10:47",21,"Male","Unsolved",3,2023,"May",10,"Morning","18-30",0
+"CR10799",2024-11-05,"Telangana","Warangal","Murder","Knife","19:45",52,"Male","Solved",1,2024,"Nov",19,"Evening","46-60",1
+"CR10502",2025-06-18,"Maharashtra","Pune","Burglary","Crowbar","19:23",41,"Female","Solved",3,2025,"Jun",19,"Evening","31-45",1
+"CR10539",2020-09-22,"Tamil Nadu","Coimbatore","Vehicle Theft","None","20:04",34,"Female","Solved",2,2020,"Sep",20,"Evening","31-45",1
+"CR10656",2021-06-04,"Tamil Nadu","Salem","Burglary","None","20:47",29,"Male","Solved",1,2021,"Jun",20,"Evening","18-30",1
+"CR10582",2023-05-13,"Delhi","New Delhi","Fraud","Online","03:50",22,"Male","Unsolved",3,2023,"May",3,"Night","18-30",0
+"CR10344",2023-05-07,"Delhi","Dwarka","Cyber Crime","Online","04:11",29,"Female","Solved",3,2023,"May",4,"Night","18-30",1
+"CR10677",2025-04-20,"Uttar Pradesh","Lucknow","Vehicle Theft","None","17:42",58,"Male","Unsolved",3,2025,"Apr",17,"Afternoon","46-60",0
+"CR10624",2022-12-22,"Maharashtra","Nashik","Cyber Crime","Online","23:54",33,"Male","Solved",3,2022,"Dec",23,"Night","31-45",1
+"CR10294",2019-01-14,"Gujarat","Ahmedabad","Kidnapping","None","03:35",18,"Male","Solved",2,2019,"Jan",3,"Night","18-30",1
+"CR10365",2024-09-28,"Gujarat","Surat","Burglary","Crowbar","16:06",41,"Female","Solved",3,2024,"Sep",16,"Afternoon","31-45",1
+"CR10808",2020-03-17,"Tamil Nadu","Madurai","Burglary","None","01:51",31,"Female","Solved",2,2020,"Mar",1,"Night","31-45",1
+"CR10015",2022-09-24,"Karnataka","Bengaluru","Cyber Crime","Online","15:25",44,"Female","Unsolved",1,2022,"Sep",15,"Afternoon","31-45",0
+"CR10087",2024-05-28,"Karnataka","Mangaluru","Drug Offence","None","22:17",26,"Male","Solved",1,2024,"May",22,"Night","18-30",1
+"CR10371",2024-07-21,"Kerala","Thiruvananthapuram","Theft","None","06:51",38,"Male","Solved",1,2024,"Jul",6,"Morning","31-45",1
+"CR10166",2022-01-02,"Maharashtra","Nashik","Cyber Crime","Online","18:34",46,"Female","Unsolved",3,2022,"Jan",18,"Evening","46-60",0
+"CR10884",2022-02-25,"Kerala","Kochi","Theft","None","13:48",46,"Female","Solved",1,2022,"Feb",13,"Afternoon","46-60",1
+"CR10336",2023-01-17,"Kerala","Thiruvananthapuram","Burglary","Crowbar","18:11",69,"Male","Solved",3,2023,"Jan",18,"Evening","60+",1
+"CR10060",2019-02-27,"Karnataka","Mysuru","Burglary","None","16:50",35,"Female","Unsolved",1,2019,"Feb",16,"Afternoon","31-45",0
+"CR10355",2022-06-09,"Uttar Pradesh","Kanpur","Burglary","Crowbar","22:35",37,"Female","Unsolved",3,2022,"Jun",22,"Night","31-45",0
+"CR10425",2023-01-15,"Karnataka","Mysuru","Cyber Crime","Online","09:26",20,"Male","Unsolved",3,2023,"Jan",9,"Morning","18-30",0
+"CR10293",2025-08-12,"West Bengal","Howrah","Cyber Crime","Online","22:47",45,"Female","Unsolved",3,2025,"Aug",22,"Night","31-45",0
+"CR10042",2025-07-05,"Uttar Pradesh","Lucknow","Fraud","Online","00:26",46,"Male","Solved",1,2025,"Jul",0,"Night","46-60",1
+"CR10330",2021-07-26,"West Bengal","Siliguri","Drug Offence","None","00:27",12,"Female","Unsolved",2,2021,"Jul",0,"Night","0-17",0
+"CR10615",2021-05-06,"Karnataka","Mangaluru","Burglary","Crowbar","03:27",57,"Female","Unsolved",1,2021,"May",3,"Night","46-60",0
+"CR10430",2024-06-26,"Delhi","New Delhi","Burglary","None","18:02",33,"Male","Unsolved",2,2024,"Jun",18,"Evening","31-45",0
+"CR10080",2024-09-09,"Delhi","Rohini","Theft","None","20:09",11,"Female","Unsolved",3,2024,"Sep",20,"Evening","0-17",0
+"CR10029",2020-05-10,"Uttar Pradesh","Kanpur","Robbery","Knife","21:06",24,"Male","Solved",2,2020,"May",21,"Evening","18-30",1
+"CR10255",2021-08-10,"Delhi","Dwarka","Theft","None","16:26",15,"Male","Solved",3,2021,"Aug",16,"Afternoon","0-17",1
+"CR10751",2021-11-23,"Delhi","Rohini","Theft","None","23:22",14,"Male","Solved",2,2021,"Nov",23,"Night","0-17",1
+"CR10459",2024-08-27,"Rajasthan","Jodhpur","Domestic Violence","Blunt Object","21:26",34,"Female","Solved",2,2024,"Aug",21,"Evening","31-45",1
+"CR10384",2022-12-15,"Delhi","New Delhi","Kidnapping","Firearm","08:44",29,"Female","Unsolved",2,2022,"Dec",8,"Morning","18-30",0
+"CR10314",2022-03-13,"Gujarat","Ahmedabad","Cyber Crime","Online","02:45",22,"Male","Unsolved",1,2022,"Mar",2,"Night","18-30",0
+"CR10085",2019-11-09,"Delhi","New Delhi","Kidnapping","None","08:42",11,"Male","Unsolved",1,2019,"Nov",8,"Morning","0-17",0
+"CR10575",2025-12-11,"Rajasthan","Unknown","Burglary","Crowbar","07:46",39,"Male","Solved",3,2025,"Dec",7,"Morning","31-45",1
+"CR10137",2025-08-06,"Tamil Nadu","Trichy","Cyber Crime","Online","08:15",43,"Male","Unsolved",3,2025,"Aug",8,"Morning","31-45",0
+"CR10112",2020-03-11,"Delhi","New Delhi","Vehicle Theft","None","19:11",16,"Female","Unsolved",3,2020,"Mar",19,"Evening","0-17",0
+"CR10195",2020-01-11,"Gujarat","Surat","Assault","Blunt Object","21:48",55,"Male","Solved",3,2020,"Jan",21,"Evening","46-60",1
+"CR10179",2025-08-18,"West Bengal","Siliguri","Cyber Crime","Online","17:27",30,"Male","Solved",2,2025,"Aug",17,"Afternoon","18-30",1
+"CR10888",2020-10-23,"Gujarat","Vadodara","Burglary","Crowbar","19:36",43,"Female","Unsolved",1,2020,"Oct",19,"Evening","31-45",0
+"CR10497",2022-08-22,"Rajasthan","Jaipur","Kidnapping","Firearm","18:35",38,"Female","Unsolved",1,2022,"Aug",18,"Evening","31-45",0
+"CR10130",2023-12-10,"Delhi","Rohini","Cyber Crime","Online","10:28",40,"Female","Unsolved",3,2023,"Dec",10,"Morning","31-45",0
+"CR10338",2024-05-27,"Rajasthan","Udaipur","Theft","None","17:42",19,"Female","Solved",1,2024,"May",17,"Afternoon","18-30",1
+"CR10609",2024-05-08,"Maharashtra","Pune","Theft","None","19:20",15,"Female","Unsolved",2,2024,"May",19,"Evening","0-17",0
+"CR10125",2019-09-13,"Maharashtra","Pune","Domestic Violence","Blunt Object","17:02",40,"Female","Solved",2,2019,"Sep",17,"Afternoon","31-45",1
+"CR10963",2020-02-16,"Delhi","New Delhi","Burglary","None","22:05",34,"Female","Unsolved",2,2020,"Feb",22,"Night","31-45",0
+"CR10227",2019-08-06,"Kerala","Kochi","Theft","None","16:55",36,"Female","Unsolved",3,2019,"Aug",16,"Afternoon","31-45",0
+"CR10269",2019-05-25,"Tamil Nadu","Chennai","Theft","None","11:56",6,"Male","Unsolved",2,2019,"May",11,"Morning","0-17",0
+"CR10980",2020-06-06,"Karnataka","Mysuru","Burglary","None","19:41",37,"Male","Solved",3,2020,"Jun",19,"Evening","31-45",1
+"CR10104",2025-02-15,"Delhi","Dwarka","Assault","Knife","01:10",47,"Female","Solved",2,2025,"Feb",1,"Night","46-60",1
+"CR10594",2023-07-14,"Karnataka","Bengaluru","Fraud","None","13:01",48,"Male","Unsolved",2,2023,"Jul",13,"Afternoon","46-60",0
+"CR10855",2020-12-01,"West Bengal","Siliguri","Cyber Crime","Online","19:09",41,"Male","Solved",1,2020,"Dec",19,"Evening","31-45",1
+"CR10658",2021-01-24,"Delhi","Dwarka","Assault","Blunt Object","11:03",36,"Male","Unsolved",2,2021,"Jan",11,"Morning","31-45",0
+"CR10228",2023-02-09,"Delhi","Rohini","Assault","Knife","18:37",24,"Female","Solved",3,2023,"Feb",18,"Evening","18-30",1
+"CR10886",2022-07-20,"West Bengal","Kolkata","Theft","None","14:40",39,"Female","Solved",1,2022,"Jul",14,"Afternoon","31-45",1
+"CR10302",2020-07-24,"Karnataka","Mysuru","Cyber Crime","Online","09:48",39,"Female","Solved",2,2020,"Jul",9,"Morning","31-45",1
+"CR10276",2022-10-19,"Karnataka","Mangaluru","Theft","None","10:30",19,"Female","Unsolved",3,2022,"Oct",10,"Morning","18-30",0
+"CR10127",2021-09-20,"Maharashtra","Nashik","Theft","None","16:20",29,"Male","Unsolved",1,2021,"Sep",16,"Afternoon","18-30",0
+"CR10406",2025-01-14,"Tamil Nadu","Salem","Fraud","Online","08:01",24,"Female","Unsolved",2,2025,"Jan",8,"Morning","18-30",0
+"CR10933",2022-10-04,"West Bengal","Siliguri","Cyber Crime","Online","20:56",36,"Male","Solved",2,2022,"Oct",20,"Evening","31-45",1
+"CR10037",2020-12-20,"Uttar Pradesh","Lucknow","Kidnapping","None","21:34",7,"Male","Solved",3,2020,"Dec",21,"Evening","0-17",1
+"CR10140",2019-05-20,"Maharashtra","Pune","Theft","None","22:35",34,"Female","Solved",1,2019,"May",22,"Night","31-45",1
+"CR10304",2023-03-22,"Tamil Nadu","Coimbatore","Theft","None","13:54",33,"Male","Solved",3,2023,"Mar",13,"Afternoon","31-45",1
+"CR10268",2020-09-24,"Karnataka","Bengaluru","Cyber Crime","Online","18:06",23,"Female","Unsolved",1,2020,"Sep",18,"Evening","18-30",0
+"CR10534",2024-12-17,"West Bengal","Howrah","Vehicle Theft","None","12:22",38,"Female","Unsolved",3,2024,"Dec",12,"Afternoon","31-45",0
+"CR10546",2022-12-25,"Delhi","Rohini","Vehicle Theft","None","08:47",13,"Female","Unsolved",3,2022,"Dec",8,"Morning","0-17",0
+"CR10213",2020-12-12,"Delhi","New Delhi","Theft","None","13:19",33,"Male","Unsolved",1,2020,"Dec",13,"Afternoon","31-45",0
+"CR10469",2020-06-25,"Kerala","Unknown","Cyber Crime","Online","21:20",44,"Female","Unsolved",3,2020,"Jun",21,"Evening","31-45",0
+"CR10199",2020-07-08,"Uttar Pradesh","Varanasi","Theft","None","21:28",50,"Female","Solved",3,2020,"Jul",21,"Evening","46-60",1
+"CR10528",2025-12-01,"Uttar Pradesh","Kanpur","Kidnapping","Firearm","01:58",41,"Male","Solved",2,2025,"Dec",1,"Night","31-45",1
+"CR10795",2019-01-07,"Rajasthan","Udaipur","Domestic Violence","None","23:53",31,"Female","Solved",2,2019,"Jan",23,"Night","31-45",1
+"CR10242",2024-06-18,"Karnataka","Hubli","Burglary","Crowbar","09:47",40,"Male","Solved",2,2024,"Jun",9,"Morning","31-45",1
+"CR10343",2024-01-07,"Tamil Nadu","Salem","Assault","None","11:56",20,"Female","Solved",3,2024,"Jan",11,"Morning","18-30",1
+"CR10550",2022-10-07,"Karnataka","Mysuru","Burglary","None","13:10",22,"Female","Unsolved",2,2022,"Oct",13,"Afternoon","18-30",0
+"CR10387",2024-03-07,"Gujarat","Surat","Vehicle Theft","None","10:32",28,"Female","Unsolved",1,2024,"Mar",10,"Morning","18-30",0
+"CR10861",2024-10-16,"West Bengal","Siliguri","Theft","None","19:53",17,"Male","Unsolved",1,2024,"Oct",19,"Evening","0-17",0
+"CR10207",2020-09-23,"Karnataka","Bengaluru","Theft","None","21:28",20,"Male","Solved",2,2020,"Sep",21,"Evening","18-30",1
+"CR10296",2025-11-26,"Maharashtra","Nashik","Cyber Crime","Online","20:13",39,"Female","Unsolved",3,2025,"Nov",20,"Evening","31-45",0
+"CR10772",2023-12-20,"Tamil Nadu","Coimbatore","Theft","None","23:05",43,"Male","Solved",2,2023,"Dec",23,"Night","31-45",1
+"CR10074",2021-12-03,"Delhi","Unknown","Theft","None","14:12",40,"Female","Unsolved",2,2021,"Dec",14,"Afternoon","31-45",0
+"CR10747",2021-02-19,"Rajasthan","Jaipur","Fraud","Online","10:17",51,"Female","Unsolved",2,2021,"Feb",10,"Morning","46-60",0
+"CR10105",2024-11-10,"Karnataka","Mangaluru","Robbery","None","18:29",25,"Female","Unsolved",2,2024,"Nov",18,"Evening","18-30",0
+"CR10690",2023-05-10,"Delhi","New Delhi","Burglary","None","23:07",43,"Male","Unsolved",1,2023,"May",23,"Night","31-45",0
+"CR10875",2024-01-22,"Uttar Pradesh","Noida","Fraud","None","03:26",12,"Female","Unsolved",1,2024,"Jan",3,"Night","0-17",0
+"CR10967",2025-07-11,"Telangana","Hyderabad","Kidnapping","Firearm","08:45",33,"Male","Unsolved",3,2025,"Jul",8,"Morning","31-45",0
+"CR10017",2023-09-22,"West Bengal","Howrah","Domestic Violence","Blunt Object","20:48",50,"Female","Unsolved",1,2023,"Sep",20,"Evening","46-60",0
+"CR10440",2023-10-01,"West Bengal","Kolkata","Domestic Violence","Blunt Object","03:37",23,"Female","Solved",2,2023,"Oct",3,"Night","18-30",1
+"CR10092",2024-05-16,"Uttar Pradesh","Kanpur","Fraud","None","03:36",18,"Female","Unsolved",1,2024,"May",3,"Night","18-30",0
+"CR10089",2020-10-02,"Rajasthan","Jodhpur","Fraud","Online","16:28",15,"Male","Solved",1,2020,"Oct",16,"Afternoon","0-17",1
+"CR10451",2019-10-23,"Uttar Pradesh","Varanasi","Robbery","None","19:14",8,"Female","Solved",2,2019,"Oct",19,"Evening","0-17",1
+"CR10103",2021-02-05,"Uttar Pradesh","Noida","Theft","None","01:16",25,"Male","Unsolved",1,2021,"Feb",1,"Night","18-30",0
+"CR10239",2019-10-26,"Gujarat","Ahmedabad","Domestic Violence","Blunt Object","23:19",53,"Male","Solved",2,2019,"Oct",23,"Night","46-60",1
+"CR10723",2019-01-04,"Rajasthan","Jaipur","Burglary","Crowbar","21:01",44,"Male","Unsolved",2,2019,"Jan",21,"Evening","31-45",0
+"CR10247",2023-06-09,"Telangana","Hyderabad","Theft","None","19:57",50,"Female","Solved",1,2023,"Jun",19,"Evening","46-60",1
+"CR10715",2024-05-26,"Maharashtra","Pune","Vehicle Theft","None","00:51",50,"Female","Unsolved",1,2024,"May",0,"Night","46-60",0
+"CR10158",2024-03-17,"Karnataka","Mysuru","Domestic Violence","Blunt Object","07:17",37,"Male","Solved",3,2024,"Mar",7,"Morning","31-45",1
+"CR10480",2022-09-05,"Karnataka","Mysuru","Theft","None","00:27",31,"Female","Solved",3,2022,"Sep",0,"Night","31-45",1
+"CR10646",2025-11-10,"Gujarat","Ahmedabad","Robbery","None","19:50",39,"Male","Solved",1,2025,"Nov",19,"Evening","31-45",1
+"CR10847",2022-03-01,"Tamil Nadu","Madurai","Fraud","None","20:24",31,"Male","Unsolved",3,2022,"Mar",20,"Evening","31-45",0
+"CR10989",2021-01-12,"Tamil Nadu","Chennai","Fraud","None","13:56",28,"Male","Solved",3,2021,"Jan",13,"Afternoon","18-30",1
+"CR10019",2025-03-01,"Delhi","Rohini","Theft","None","18:46",57,"Male","Solved",1,2025,"Mar",18,"Evening","46-60",1
+"CR10707",2024-05-25,"Uttar Pradesh","Noida","Assault","Blunt Object","11:59",34,"Female","Solved",2,2024,"May",11,"Morning","31-45",1
+"CR10122",2024-04-23,"Tamil Nadu","Madurai","Assault","Blunt Object","22:30",34,"Female","Solved",3,2024,"Apr",22,"Night","31-45",1
+"CR10838",2025-05-25,"Gujarat","Vadodara","Cyber Crime","Online","20:11",31,"Male","Unsolved",1,2025,"May",20,"Evening","31-45",0
+"CR10706",2023-04-05,"Uttar Pradesh","Kanpur","Burglary","Crowbar","17:36",53,"Female","Unsolved",1,2023,"Apr",17,"Afternoon","46-60",0
+"CR10275",2024-11-13,"Rajasthan","Jodhpur","Vehicle Theft","None","20:43",30,"Male","Unsolved",1,2024,"Nov",20,"Evening","18-30",0
+"CR10434",2025-03-13,"Gujarat","Surat","Kidnapping","None","14:48",25,"Male","Solved",3,2025,"Mar",14,"Afternoon","18-30",1
+"CR10899",2020-09-02,"Uttar Pradesh","Noida","Theft","None","20:46",52,"Female","Solved",1,2020,"Sep",20,"Evening","46-60",1
+"CR10312",2022-06-21,"West Bengal","Siliguri","Drug Offence","None","08:12",55,"Female","Unsolved",3,2022,"Jun",8,"Morning","46-60",0
+"CR10832",2023-01-04,"Uttar Pradesh","Kanpur","Assault","Knife","07:41",51,"Female","Solved",2,2023,"Jan",7,"Morning","46-60",1
+"CR10837",2024-09-26,"Gujarat","Surat","Cyber Crime","Online","18:42",30,"Male","Solved",3,2024,"Sep",18,"Evening","18-30",1
+"CR10547",2022-12-13,"Gujarat","Ahmedabad","Theft","None","02:41",29,"Female","Unsolved",2,2022,"Dec",2,"Night","18-30",0
+"CR10182",2025-03-05,"Delhi","New Delhi","Kidnapping","None","21:43",31,"Male","Solved",3,2025,"Mar",21,"Evening","31-45",1
+"CR10185",2024-10-03,"Delhi","New Delhi","Theft","None","21:54",53,"Female","Unsolved",3,2024,"Oct",21,"Evening","46-60",0
+"CR10407",2021-09-19,"Kerala","Kozhikode","Burglary","None","20:02",36,"Female","Unsolved",2,2021,"Sep",20,"Evening","31-45",0
+"CR10607",2025-09-25,"Uttar Pradesh","Kanpur","Robbery","Firearm","12:11",61,"Male","Unsolved",3,2025,"Sep",12,"Afternoon","60+",0
+"CR10693",2021-04-12,"West Bengal","Howrah","Assault","Blunt Object","07:48",20,"Male","Unsolved",1,2021,"Apr",7,"Morning","18-30",0
+"CR10521",2025-03-26,"Kerala","Kozhikode","Fraud","None","04:01",26,"Female","Solved",3,2025,"Mar",4,"Night","18-30",1
+"CR10381",2023-02-19,"Tamil Nadu","Trichy","Assault","Blunt Object","21:30",41,"Male","Solved",2,2023,"Feb",21,"Evening","31-45",1
+"CR10411",2024-03-04,"Delhi","Rohini","Theft","None","11:38",38,"Female","Unsolved",3,2024,"Mar",11,"Morning","31-45",0
+"CR10635",2019-12-20,"Uttar Pradesh","Noida","Fraud","None","22:16",44,"Male","Unsolved",2,2019,"Dec",22,"Night","31-45",0
+"CR10370",2025-03-14,"Gujarat","Surat","Cyber Crime","Online","18:27",29,"Female","Unsolved",2,2025,"Mar",18,"Evening","18-30",0
+"CR10815",2020-11-03,"Delhi","New Delhi","Cyber Crime","Online","21:31",5,"Female","Unsolved",2,2020,"Nov",21,"Evening","0-17",0
+"CR10835",2024-10-06,"Uttar Pradesh","Lucknow","Domestic Violence","Blunt Object","15:42",23,"Female","Solved",2,2024,"Oct",15,"Afternoon","18-30",1
+"CR10755",2024-03-21,"Gujarat","Surat","Kidnapping","None","02:10",35,"Male","Solved",3,2024,"Mar",2,"Night","31-45",1
+"CR10079",2023-12-07,"Delhi","Rohini","Cyber Crime","Online","13:30",24,"Female","Solved",3,2023,"Dec",13,"Afternoon","18-30",1
+"CR10574",2024-10-05,"Tamil Nadu","Madurai","Theft","None","12:55",56,"Male","Solved",3,2024,"Oct",12,"Afternoon","46-60",1
+"CR10638",2024-09-12,"Gujarat","Surat","Drug Offence","None","11:04",50,"Male","Solved",2,2024,"Sep",11,"Morning","46-60",1
+"CR10608",2019-11-21,"Maharashtra","Nagpur","Robbery","None","14:44",24,"Male","Unsolved",3,2019,"Nov",14,"Afternoon","18-30",0
+"CR10796",2021-12-12,"West Bengal","Siliguri","Robbery","Knife","22:33",18,"Female","Unsolved",3,2021,"Dec",22,"Night","18-30",0
+"CR10996",2022-01-13,"Uttar Pradesh","Lucknow","Fraud","None","16:48",35,"Male","Unsolved",1,2022,"Jan",16,"Afternoon","31-45",0
+"CR10863",2024-05-18,"Rajasthan","Udaipur","Assault","Blunt Object","22:16",39,"Male","Solved",2,2024,"May",22,"Night","31-45",1
+"CR10926",2021-11-28,"Gujarat","Surat","Vehicle Theft","None","08:02",41,"Male","Unsolved",1,2021,"Nov",8,"Morning","31-45",0
+"CR10417",2020-03-07,"Maharashtra","Nashik","Domestic Violence","None","20:47",34,"Male","Solved",3,2020,"Mar",20,"Evening","31-45",1
+"CR10744",2019-01-13,"Karnataka","Mysuru","Robbery","Knife","20:41",31,"Male","Solved",1,2019,"Jan",20,"Evening","31-45",1
+"CR10562",2021-09-01,"West Bengal","Siliguri","Cyber Crime","Online","04:18",51,"Female","Unsolved",1,2021,"Sep",4,"Night","46-60",0
+"CR10068",2021-04-07,"Karnataka","Bengaluru","Theft","None","22:40",29,"Female","Unsolved",1,2021,"Apr",22,"Night","18-30",0
+"CR10537",2023-12-22,"Delhi","New Delhi","Vehicle Theft","None","21:24",42,"Female","Unsolved",3,2023,"Dec",21,"Evening","31-45",0
+"CR10078",2024-09-28,"Gujarat","Surat","Cyber Crime","Online","19:25",40,"Female","Solved",1,2024,"Sep",19,"Evening","31-45",1
+"CR10106",2024-04-26,"Maharashtra","Pune","Robbery","Knife","00:26",52,"Female","Solved",2,2024,"Apr",0,"Night","46-60",1
+"CR10050",2020-09-13,"Rajasthan","Udaipur","Theft","None","04:36",9,"Female","Solved",2,2020,"Sep",4,"Night","0-17",1
+"CR10782",2025-04-07,"Gujarat","Ahmedabad","Fraud","None","00:44",34,"Male","Unsolved",2,2025,"Apr",0,"Night","31-45",0
+"CR10639",2024-07-01,"Tamil Nadu","Trichy","Theft","None","19:16",48,"Female","Solved",2,2024,"Jul",19,"Evening","46-60",1
+"CR10560",2023-10-24,"Rajasthan","Jodhpur","Fraud","None","18:06",41,"Male","Unsolved",2,2023,"Oct",18,"Evening","31-45",0
+"CR10762",2020-05-28,"Uttar Pradesh","Varanasi","Domestic Violence","None","00:39",27,"Female","Solved",2,2020,"May",0,"Night","18-30",1
+"CR10691",2021-05-09,"Karnataka","Hubli","Cyber Crime","Online","13:08",31,"Male","Solved",1,2021,"May",13,"Afternoon","31-45",1
+"CR10870",2020-05-01,"Uttar Pradesh","Kanpur","Assault","None","08:07",36,"Male","Solved",1,2020,"May",8,"Morning","31-45",1
+"CR10953",2021-01-21,"Delhi","New Delhi","Fraud","Online","16:48",35,"Male","Unsolved",3,2021,"Jan",16,"Afternoon","31-45",0
+"CR10872",2019-04-10,"Rajasthan","Udaipur","Theft","None","11:58",60,"Male","Unsolved",1,2019,"Apr",11,"Morning","46-60",0
+"CR10736",2024-06-03,"Telangana","Warangal","Cyber Crime","Online","19:32",26,"Male","Unsolved",2,2024,"Jun",19,"Evening","18-30",0
+"CR10780",2025-04-26,"Kerala","Kozhikode","Theft","None","17:55",19,"Male","Unsolved",1,2025,"Apr",17,"Afternoon","18-30",0
+"CR10491",2024-08-07,"Kerala","Kozhikode","Cyber Crime","Online","18:05",25,"Male","Solved",2,2024,"Aug",18,"Evening","18-30",1
+"CR10846",2025-01-24,"Uttar Pradesh","Varanasi","Burglary","Crowbar","16:34",28,"Male","Unsolved",2,2025,"Jan",16,"Afternoon","18-30",0
+"CR10606",2024-05-01,"Karnataka","Mangaluru","Domestic Violence","None","22:31",33,"Female","Solved",2,2024,"May",22,"Night","31-45",1
+"CR10364",2019-09-10,"Rajasthan","Jodhpur","Domestic Violence","None","02:04",34,"Male","Solved",2,2019,"Sep",2,"Night","31-45",1
+"CR10070",2022-04-10,"Kerala","Kozhikode","Assault","Knife","14:22",34,"Female","Unsolved",3,2022,"Apr",14,"Afternoon","31-45",0
+"CR10549",2024-09-22,"Tamil Nadu","Trichy","Kidnapping","None","16:31",29,"Female","Unsolved",2,2024,"Sep",16,"Afternoon","18-30",0
+"CR10161",2019-06-25,"Gujarat","Ahmedabad","Cyber Crime","Online","10:14",49,"Female","Unsolved",3,2019,"Jun",10,"Morning","46-60",0
+"CR10012",2025-04-07,"Gujarat","Ahmedabad","Theft","None","00:51",20,"Female","Unsolved",1,2025,"Apr",0,"Night","18-30",0
+"CR10145",2022-06-16,"Karnataka","Mangaluru","Cyber Crime","Online","19:45",14,"Female","Unsolved",2,2022,"Jun",19,"Evening","0-17",0
+"CR10518",2024-03-17,"Maharashtra","Nagpur","Drug Offence","None","16:00",44,"Female","Solved",2,2024,"Mar",16,"Afternoon","31-45",1
+"CR10428",2025-07-03,"Tamil Nadu","Madurai","Fraud","Online","21:01",22,"Male","Unsolved",2,2025,"Jul",21,"Evening","18-30",0
+"CR10640",2025-02-09,"West Bengal","Kolkata","Robbery","Knife","16:24",56,"Female","Solved",1,2025,"Feb",16,"Afternoon","46-60",1
+"CR10177",2022-10-07,"Delhi","Rohini","Drug Offence","None","05:22",43,"Male","Solved",1,2022,"Oct",5,"Night","31-45",1
+"CR10441",2025-01-16,"Delhi","New Delhi","Vehicle Theft","None","09:35",37,"Female","Solved",1,2025,"Jan",9,"Morning","31-45",1
+"CR10522",2022-07-10,"Maharashtra","Nashik","Theft","None","23:28",24,"Female","Unsolved",3,2022,"Jul",23,"Night","18-30",0
+"CR10873",2025-07-24,"Kerala","Thiruvananthapuram","Burglary","None","23:27",26,"Male","Unsolved",2,2025,"Jul",23,"Night","18-30",0
+"CR10960",2023-01-02,"Tamil Nadu","Coimbatore","Robbery","Firearm","17:14",28,"Male","Unsolved",3,2023,"Jan",17,"Afternoon","18-30",0
+"CR10689",2024-04-25,"Rajasthan","Jaipur","Theft","None","01:39",42,"Female","Unsolved",1,2024,"Apr",1,"Night","31-45",0
+"CR10232",2022-11-01,"Maharashtra","Nagpur","Domestic Violence","None","01:42",34,"Female","Unsolved",3,2022,"Nov",1,"Night","31-45",0
+"CR10211",2024-06-22,"Karnataka","Bengaluru","Cyber Crime","Online","07:37",39,"Female","Unsolved",2,2024,"Jun",7,"Morning","31-45",0
+"CR10641",2024-11-27,"Kerala","Kochi","Domestic Violence","None","09:54",33,"Female","Solved",3,2024,"Nov",9,"Morning","31-45",1
+"CR10144",2023-07-04,"West Bengal","Siliguri","Theft","None","14:01",44,"Female","Unsolved",1,2023,"Jul",14,"Afternoon","31-45",0
+"CR10754",2022-10-26,"West Bengal","Kolkata","Fraud","None","13:30",31,"Female","Solved",3,2022,"Oct",13,"Afternoon","31-45",1
+"CR10520",2025-08-08,"Maharashtra","Nashik","Burglary","Crowbar","18:06",35,"Female","Unsolved",1,2025,"Aug",18,"Evening","31-45",0
+"CR10299",2024-05-19,"Maharashtra","Nagpur","Vehicle Theft","None","17:36",31,"Male","Solved",3,2024,"May",17,"Afternoon","31-45",1
+"CR10767",2020-11-27,"Tamil Nadu","Coimbatore","Robbery","Knife","17:20",28,"Female","Unsolved",2,2020,"Nov",17,"Afternoon","18-30",0
+"CR10429",2019-03-14,"Rajasthan","Jaipur","Assault","Knife","23:51",26,"Female","Solved",2,2019,"Mar",23,"Night","18-30",1
+"CR10613",2025-04-02,"Telangana","Hyderabad","Burglary","Crowbar","06:49",30,"Female","Solved",2,2025,"Apr",6,"Morning","18-30",1
+"CR10931",2021-08-13,"Karnataka","Bengaluru","Burglary","None","04:54",17,"Male","Solved",3,2021,"Aug",4,"Night","0-17",1
+"CR10940",2019-05-06,"Delhi","Dwarka","Assault","Knife","18:42",15,"Male","Solved",3,2019,"May",18,"Evening","0-17",1
+"CR10009",2020-09-25,"Uttar Pradesh","Unknown","Vehicle Theft","None","21:26",21,"Male","Unsolved",2,2020,"Sep",21,"Evening","18-30",0
+"CR10157",2021-01-11,"Delhi","New Delhi","Burglary","None","10:48",34,"Male","Solved",3,2021,"Jan",10,"Morning","31-45",1
+"CR10540",2025-11-09,"Kerala","Kochi","Vehicle Theft","None","19:54",37,"Male","Unsolved",2,2025,"Nov",19,"Evening","31-45",0
+"CR10507",2021-10-05,"Karnataka","Mysuru","Domestic Violence","Blunt Object","19:24",8,"Female","Unsolved",2,2021,"Oct",19,"Evening","0-17",0
+"CR10437",2020-05-20,"Maharashtra","Pune","Theft","None","13:24",39,"Female","Unsolved",1,2020,"May",13,"Afternoon","31-45",0
+"CR10267",2021-09-01,"Kerala","Thiruvananthapuram","Burglary","None","16:11",35,"Male","Unsolved",2,2021,"Sep",16,"Afternoon","31-45",0
+"CR10462",2020-02-28,"Karnataka","Hubli","Theft","None","23:49",47,"Male","Unsolved",3,2020,"Feb",23,"Night","46-60",0
+"CR10577",2025-11-22,"Tamil Nadu","Coimbatore","Theft","None","03:44",40,"Female","Unsolved",2,2025,"Nov",3,"Night","31-45",0
+"CR10339",2019-05-10,"Karnataka","Mysuru","Fraud","None","09:09",18,"Male","Unsolved",1,2019,"May",9,"Morning","18-30",0
+"CR10256",2024-03-08,"Maharashtra","Nagpur","Vehicle Theft","None","17:19",25,"Male","Solved",3,2024,"Mar",17,"Afternoon","18-30",1
+"CR10806",2020-12-01,"Delhi","Dwarka","Robbery","None","14:14",26,"Male","Solved",2,2020,"Dec",14,"Afternoon","18-30",1
+"CR10974",2025-04-13,"Delhi","New Delhi","Burglary","Crowbar","18:57",23,"Male","Solved",3,2025,"Apr",18,"Evening","18-30",1
+"CR10666",2024-03-18,"Telangana","Warangal","Fraud","None","23:47",12,"Male","Unsolved",1,2024,"Mar",23,"Night","0-17",0
+"CR10561",2019-07-16,"Kerala","Kochi","Cyber Crime","Online","20:31",30,"Female","Solved",2,2019,"Jul",20,"Evening","18-30",1
+"CR10209",2020-12-27,"Delhi","Rohini","Robbery","Firearm","20:27",10,"Male","Unsolved",1,2020,"Dec",20,"Evening","0-17",0
+"CR10288",2022-11-22,"Uttar Pradesh","Noida","Cyber Crime","Online","20:10",30,"Female","Solved",2,2022,"Nov",20,"Evening","18-30",1
+"CR10002",2022-09-21,"Uttar Pradesh","Kanpur","Cyber Crime","Online","15:05",40,"Male","Solved",3,2022,"Sep",15,"Afternoon","31-45",1
+"CR10342",2025-01-13,"Delhi","New Delhi","Drug Offence","None","23:50",25,"Male","Solved",1,2025,"Jan",23,"Night","18-30",1
+"CR10270",2019-07-19,"Uttar Pradesh","Noida","Burglary","None","17:35",16,"Male","Solved",3,2019,"Jul",17,"Afternoon","0-17",1
+"CR10266",2020-02-23,"Uttar Pradesh","Lucknow","Assault","Blunt Object","21:28",33,"Male","Unsolved",1,2020,"Feb",21,"Evening","31-45",0
+"CR10816",2025-03-22,"Maharashtra","Mumbai","Assault","Knife","17:40",23,"Male","Solved",3,2025,"Mar",17,"Afternoon","18-30",1
+"CR10823",2021-12-09,"West Bengal","Howrah","Vehicle Theft","None","09:19",33,"Female","Solved",1,2021,"Dec",9,"Morning","31-45",1
+"CR10096",2023-03-12,"Tamil Nadu","Coimbatore","Theft","None","14:12",30,"Female","Solved",2,2023,"Mar",14,"Afternoon","18-30",1
+"CR10973",2019-04-14,"Rajasthan","Udaipur","Domestic Violence","None","07:52",15,"Male","Unsolved",3,2019,"Apr",7,"Morning","0-17",0
+"CR10043",2024-07-06,"Maharashtra","Mumbai","Vehicle Theft","None","13:05",39,"Female","Solved",2,2024,"Jul",13,"Afternoon","31-45",1
+"CR10805",2020-08-05,"Delhi","New Delhi","Kidnapping","Firearm","22:07",31,"Male","Solved",1,2020,"Aug",22,"Night","31-45",1
+"CR10903",2019-09-08,"Maharashtra","Mumbai","Assault","Blunt Object","15:21",52,"Female","Solved",3,2019,"Sep",15,"Afternoon","46-60",1
+"CR10629",2023-10-06,"West Bengal","Kolkata","Assault","None","19:03",26,"Male","Solved",3,2023,"Oct",19,"Evening","18-30",1
+"CR10046",2024-01-24,"Karnataka","Mangaluru","Vehicle Theft","None","17:32",30,"Male","Solved",1,2024,"Jan",17,"Afternoon","18-30",1
+"CR10162",2025-12-14,"Delhi","Dwarka","Cyber Crime","Online","02:51",48,"Male","Solved",3,2025,"Dec",2,"Night","46-60",1
+"CR10728",2019-08-27,"Tamil Nadu","Madurai","Domestic Violence","None","16:54",34,"Male","Solved",1,2019,"Aug",16,"Afternoon","31-45",1
+"CR10630",2024-03-13,"Tamil Nadu","Trichy","Burglary","None","23:13",38,"Male","Unsolved",1,2024,"Mar",23,"Night","31-45",0
+"CR10289",2023-05-23,"Delhi","Dwarka","Theft","None","04:58",28,"Male","Solved",1,2023,"May",4,"Night","18-30",1
+"CR10590",2019-08-21,"Maharashtra","Pune","Fraud","None","23:25",40,"Male","Unsolved",1,2019,"Aug",23,"Night","31-45",0
+"CR10957",2024-09-06,"Uttar Pradesh","Varanasi","Vehicle Theft","None","20:25",22,"Female","Unsolved",2,2024,"Sep",20,"Evening","18-30",0
+"CR10576",2023-12-22,"Maharashtra","Nagpur","Assault","None","02:32",30,"Male","Solved",1,2023,"Dec",2,"Night","18-30",1
+"CR10316",2021-01-26,"Karnataka","Bengaluru","Burglary","Crowbar","02:50",20,"Male","Unsolved",2,2021,"Jan",2,"Night","18-30",0
+"CR10893",2021-07-24,"Tamil Nadu","Coimbatore","Fraud","Online","19:08",24,"Female","Solved",2,2021,"Jul",19,"Evening","18-30",1
+"CR10231",2020-04-13,"Maharashtra","Mumbai","Kidnapping","None","15:16",20,"Male","Solved",3,2020,"Apr",15,"Afternoon","18-30",1
+"CR10810",2025-06-01,"Kerala","Kozhikode","Cyber Crime","Online","17:50",25,"Male","Unsolved",1,2025,"Jun",17,"Afternoon","18-30",0
+"CR10699",2024-12-25,"Delhi","New Delhi","Domestic Violence","Blunt Object","10:25",43,"Female","Solved",1,2024,"Dec",10,"Morning","31-45",1
+"CR10829",2025-04-28,"West Bengal","Siliguri","Assault","None","13:31",66,"Female","Solved",2,2025,"Apr",13,"Afternoon","60+",1
+"CR10712",2024-06-20,"Gujarat","Ahmedabad","Drug Offence","None","21:27",39,"Female","Solved",2,2024,"Jun",21,"Evening","31-45",1
+"CR10077",2021-03-15,"Gujarat","Ahmedabad","Burglary","None","18:56",35,"Male","Unsolved",1,2021,"Mar",18,"Evening","31-45",0
+"CR10634",2022-06-24,"Karnataka","Mangaluru","Robbery","None","14:35",49,"Male","Unsolved",2,2022,"Jun",14,"Afternoon","46-60",0
+"CR10979",2023-01-10,"Delhi","Rohini","Theft","None","19:46",39,"Female","Unsolved",3,2023,"Jan",19,"Evening","31-45",0
+"CR10248",2022-03-16,"Uttar Pradesh","Lucknow","Drug Offence","None","18:20",60,"Female","Solved",1,2022,"Mar",18,"Evening","46-60",1
+"CR10820",2021-08-26,"Rajasthan","Jaipur","Fraud","None","07:09",49,"Male","Solved",3,2021,"Aug",7,"Morning","46-60",1
+"CR10981",2025-05-24,"Rajasthan","Jaipur","Cyber Crime","Online","16:14",68,"Male","Unsolved",3,2025,"May",16,"Afternoon","60+",0
+"CR10477",2022-01-07,"Tamil Nadu","Chennai","Cyber Crime","Online","16:14",28,"Male","Solved",3,2022,"Jan",16,"Afternoon","18-30",1
+"CR10671",2020-01-25,"Maharashtra","Nagpur","Domestic Violence","Blunt Object","22:36",19,"Female","Solved",2,2020,"Jan",22,"Night","18-30",1
+"CR10086",2019-08-11,"Delhi","Rohini","Assault","Blunt Object","14:48",37,"Male","Unsolved",1,2019,"Aug",14,"Afternoon","31-45",0
+"CR10470",2023-01-04,"Rajasthan","Jaipur","Kidnapping","Firearm","01:06",34,"Female","Solved",2,2023,"Jan",1,"Night","31-45",1
+"CR10226",2025-07-12,"Uttar Pradesh","Noida","Murder","Blunt Object","19:05",33,"Female","Solved",2,2025,"Jul",19,"Evening","31-45",1
+"CR10775",2019-09-02,"Gujarat","Ahmedabad","Assault","Blunt Object","09:29",49,"Female","Solved",1,2019,"Sep",9,"Morning","46-60",1
+"CR10332",2020-11-04,"Karnataka","Mysuru","Domestic Violence","None","19:05",30,"Female","Solved",3,2020,"Nov",19,"Evening","18-30",1
+"CR10234",2023-12-05,"Uttar Pradesh","Kanpur","Vehicle Theft","None","08:01",33,"Male","Unsolved",3,2023,"Dec",8,"Morning","31-45",0
+"CR10589",2020-04-01,"Rajasthan","Jaipur","Cyber Crime","Online","11:41",47,"Male","Unsolved",2,2020,"Apr",11,"Morning","46-60",0
+"CR10476",2021-05-09,"Karnataka","Mangaluru","Burglary","Crowbar","19:10",33,"Female","Solved",3,2021,"May",19,"Evening","31-45",1
+"CR10894",2019-02-26,"West Bengal","Howrah","Cyber Crime","Online","20:16",56,"Female","Unsolved",2,2019,"Feb",20,"Evening","46-60",0
+"CR10874",2022-09-09,"Rajasthan","Jodhpur","Theft","None","11:28",23,"Male","Solved",3,2022,"Sep",11,"Morning","18-30",1
+"CR10600",2023-12-28,"Tamil Nadu","Salem","Cyber Crime","Online","08:27",30,"Male","Solved",3,2023,"Dec",8,"Morning","18-30",1
+"CR10422",2019-09-07,"West Bengal","Siliguri","Assault","Blunt Object","18:53",35,"Male","Solved",3,2019,"Sep",18,"Evening","31-45",1
+"CR10688",2025-12-26,"Tamil Nadu","Salem","Robbery","Knife","03:48",40,"Female","Solved",3,2025,"Dec",3,"Night","31-45",1
+"CR10183",2023-06-03,"Maharashtra","Nashik","Vehicle Theft","None","13:56",29,"Male","Unsolved",2,2023,"Jun",13,"Afternoon","18-30",0
+"CR10618",2021-02-03,"Karnataka","Mysuru","Vehicle Theft","None","19:24",21,"Male","Unsolved",3,2021,"Feb",19,"Evening","18-30",0
+"CR10333",2024-06-25,"Delhi","Rohini","Cyber Crime","Online","15:49",50,"Male","Unsolved",1,2024,"Jun",15,"Afternoon","46-60",0
+"CR10439",2024-11-13,"Kerala","Thiruvananthapuram","Assault","Knife","13:08",20,"Male","Unsolved",3,2024,"Nov",13,"Afternoon","18-30",0
+"CR10006",2025-08-09,"Maharashtra","Mumbai","Theft","None","20:10",12,"Male","Unsolved",1,2025,"Aug",20,"Evening","0-17",0
+"CR10530",2021-08-22,"Maharashtra","Pune","Robbery","Firearm","17:59",25,"Male","Solved",3,2021,"Aug",17,"Afternoon","18-30",1
+"CR10235",2025-08-18,"Delhi","Dwarka","Theft","None","07:37",36,"Female","Solved",1,2025,"Aug",7,"Morning","31-45",1
+"CR10487",2022-05-05,"Rajasthan","Udaipur","Theft","None","11:22",12,"Female","Unsolved",2,2022,"May",11,"Morning","0-17",0
+"CR10908",2019-03-27,"Maharashtra","Nagpur","Vehicle Theft","None","16:50",52,"Male","Unsolved",1,2019,"Mar",16,"Afternoon","46-60",0
+"CR10498",2023-06-19,"Gujarat","Surat","Fraud","Online","01:57",38,"Female","Unsolved",1,2023,"Jun",1,"Night","31-45",0
+"CR10902",2021-08-21,"Delhi","Dwarka","Robbery","Firearm","16:24",27,"Female","Unsolved",2,2021,"Aug",16,"Afternoon","18-30",0
+"CR10107",2022-08-07,"West Bengal","Howrah","Domestic Violence","Blunt Object","19:14",47,"Female","Solved",1,2022,"Aug",19,"Evening","46-60",1
+"CR10444",2020-02-24,"Tamil Nadu","Chennai","Assault","Blunt Object","23:31",57,"Male","Solved",1,2020,"Feb",23,"Night","46-60",1
+"CR10489",2023-09-22,"Maharashtra","Nashik","Drug Offence","None","12:36",14,"Male","Solved",2,2023,"Sep",12,"Afternoon","0-17",1
+"CR10647",2019-05-07,"Delhi","New Delhi","Assault","Knife","19:02",35,"Male","Unsolved",1,2019,"May",19,"Evening","31-45",0
+"CR10013",2024-02-20,"Tamil Nadu","Salem","Assault","Knife","23:37",22,"Male","Solved",3,2024,"Feb",23,"Night","18-30",1
+"CR10739",2022-06-11,"Delhi","Rohini","Vehicle Theft","None","16:23",36,"Male","Unsolved",1,2022,"Jun",16,"Afternoon","31-45",0
+"CR10727",2021-10-09,"Karnataka","Mangaluru","Theft","None","23:36",45,"Male","Solved",2,2021,"Oct",23,"Night","31-45",1
+"CR10191",2025-05-26,"Tamil Nadu","Salem","Assault","Knife","18:18",33,"Male","Solved",2,2025,"May",18,"Evening","31-45",1
+"CR10951",2023-01-17,"Karnataka","Hubli","Fraud","None","17:01",28,"Female","Unsolved",1,2023,"Jan",17,"Afternoon","18-30",0
+"CR10833",2022-09-18,"Telangana","Hyderabad","Vehicle Theft","None","10:30",27,"Male","Solved",2,2022,"Sep",10,"Morning","18-30",1
+"CR10283",2021-07-13,"Delhi","Dwarka","Cyber Crime","Online","14:24",9,"Female","Unsolved",1,2021,"Jul",14,"Afternoon","0-17",0
+"CR10030",2024-08-12,"Gujarat","Ahmedabad","Kidnapping","None","20:24",39,"Female","Solved",1,2024,"Aug",20,"Evening","31-45",1
+"CR10170",2025-07-28,"Tamil Nadu","Unknown","Burglary","Crowbar","20:06",35,"Female","Unsolved",3,2025,"Jul",20,"Evening","31-45",0
+"CR10181",2025-12-04,"Rajasthan","Jodhpur","Domestic Violence","None","01:52",42,"Male","Solved",2,2025,"Dec",1,"Night","31-45",1
+"CR10101",2025-04-18,"Uttar Pradesh","Varanasi","Cyber Crime","Online","18:25",30,"Female","Unsolved",1,2025,"Apr",18,"Evening","18-30",0
+"CR10198",2025-05-15,"Tamil Nadu","Trichy","Burglary","Crowbar","17:10",52,"Male","Unsolved",1,2025,"May",17,"Afternoon","46-60",0
+"CR10496",2023-11-10,"Tamil Nadu","Salem","Cyber Crime","Online","10:52",46,"Female","Unsolved",1,2023,"Nov",10,"Morning","46-60",0
+"CR10722",2022-08-12,"Karnataka","Bengaluru","Assault","Blunt Object","18:58",36,"Female","Solved",2,2022,"Aug",18,"Evening","31-45",1
+"CR10648",2023-06-17,"Rajasthan","Jodhpur","Cyber Crime","Online","20:48",19,"Male","Unsolved",3,2023,"Jun",20,"Evening","18-30",0
+"CR10984",2022-12-23,"Telangana","Warangal","Burglary","None","18:38",31,"Male","Unsolved",2,2022,"Dec",18,"Evening","31-45",0
+"CR10938",2020-10-23,"Maharashtra","Nashik","Theft","None","20:14",39,"Female","Solved",1,2020,"Oct",20,"Evening","31-45",1
+"CR10711",2025-08-11,"Uttar Pradesh","Varanasi","Assault","Blunt Object","18:06",47,"Female","Solved",1,2025,"Aug",18,"Evening","46-60",1
+"CR10374",2021-07-28,"Delhi","New Delhi","Vehicle Theft","None","07:48",39,"Male","Unsolved",3,2021,"Jul",7,"Morning","31-45",0
+"CR10679",2020-08-20,"Tamil Nadu","Trichy","Fraud","Online","19:21",53,"Male","Unsolved",1,2020,"Aug",19,"Evening","46-60",0
+"CR10889",2020-02-09,"Karnataka","Mysuru","Burglary","Crowbar","03:01",33,"Female","Unsolved",1,2020,"Feb",3,"Night","31-45",0
+"CR10649",2024-05-16,"Delhi","Dwarka","Theft","None","21:27",48,"Male","Solved",3,2024,"May",21,"Evening","46-60",1
+"CR10798",2020-12-16,"Rajasthan","Udaipur","Theft","None","20:16",21,"Male","Unsolved",2,2020,"Dec",20,"Evening","18-30",0
+"CR10848",2024-03-05,"West Bengal","Unknown","Burglary","None","13:37",53,"Male","Unsolved",3,2024,"Mar",13,"Afternoon","46-60",0
+"CR10461",2023-05-26,"Karnataka","Mangaluru","Kidnapping","Firearm","08:25",29,"Male","Solved",1,2023,"May",8,"Morning","18-30",1
+"CR10414",2025-08-27,"Uttar Pradesh","Unknown","Theft","None","18:53",44,"Male","Solved",1,2025,"Aug",18,"Evening","31-45",1
+"CR10132",2025-04-19,"Tamil Nadu","Salem","Domestic Violence","Blunt Object","17:58",20,"Male","Solved",2,2025,"Apr",17,"Afternoon","18-30",1
+"CR10040",2024-10-15,"Uttar Pradesh","Kanpur","Drug Offence","None","17:07",50,"Male","Solved",1,2024,"Oct",17,"Afternoon","46-60",1
+"CR10435",2019-09-03,"Uttar Pradesh","Kanpur","Assault","Knife","17:56",37,"Female","Solved",2,2019,"Sep",17,"Afternoon","31-45",1
+"CR10216",2024-06-27,"Tamil Nadu","Salem","Theft","None","23:07",59,"Female","Unsolved",3,2024,"Jun",23,"Night","46-60",0
+"CR10556",2021-02-07,"Uttar Pradesh","Lucknow","Burglary","Crowbar","02:36",39,"Male","Unsolved",2,2021,"Feb",2,"Night","31-45",0
+"CR10567",2024-03-07,"West Bengal","Kolkata","Fraud","Online","20:28",36,"Male","Unsolved",3,2024,"Mar",20,"Evening","31-45",0
+"CR10763",2019-05-11,"Tamil Nadu","Chennai","Assault","Knife","07:40",10,"Female","Solved",3,2019,"May",7,"Morning","0-17",1
+"CR10475",2021-04-13,"Maharashtra","Nashik","Vehicle Theft","None","03:59",23,"Female","Unsolved",2,2021,"Apr",3,"Night","18-30",0
+"CR10457",2025-07-19,"West Bengal","Howrah","Theft","None","14:09",29,"Female","Unsolved",3,2025,"Jul",14,"Afternoon","18-30",0
+"CR10812",2019-12-20,"Karnataka","Hubli","Burglary","Crowbar","13:55",24,"Female","Unsolved",2,2019,"Dec",13,"Afternoon","18-30",0
+"CR10261",2020-08-14,"Kerala","Kochi","Theft","None","06:02",34,"Female","Solved",1,2020,"Aug",6,"Morning","31-45",1
+"CR10817",2025-09-16,"Karnataka","Hubli","Assault","None","23:04",26,"Female","Solved",3,2025,"Sep",23,"Night","18-30",1
+"CR10036",2020-08-03,"Tamil Nadu","Salem","Vehicle Theft","None","13:36",38,"Male","Solved",1,2020,"Aug",13,"Afternoon","31-45",1
+"CR10828",2021-12-26,"Telangana","Warangal","Vehicle Theft","None","06:23",55,"Male","Unsolved",1,2021,"Dec",6,"Morning","46-60",0
+"CR10310",2020-02-19,"Uttar Pradesh","Kanpur","Assault","Knife","19:45",47,"Female","Unsolved",3,2020,"Feb",19,"Evening","46-60",0
+"CR10277",2021-01-02,"Gujarat","Vadodara","Burglary","Crowbar","18:05",37,"Male","Unsolved",3,2021,"Jan",18,"Evening","31-45",0
+"CR10637",2024-03-05,"Delhi","Rohini","Theft","None","23:15",5,"Male","Solved",3,2024,"Mar",23,"Night","0-17",1
+"CR10655",2025-04-17,"Maharashtra","Pune","Theft","None","02:03",11,"Female","Unsolved",3,2025,"Apr",2,"Night","0-17",0
+"CR10623",2025-09-26,"West Bengal","Kolkata","Murder","Blunt Object","08:44",19,"Female","Solved",2,2025,"Sep",8,"Morning","18-30",1
+"CR10836",2023-03-06,"Uttar Pradesh","Kanpur","Theft","None","13:49",53,"Male","Unsolved",2,2023,"Mar",13,"Afternoon","46-60",0
+"CR10845",2019-05-18,"Maharashtra","Pune","Domestic Violence","None","22:13",19,"Female","Solved",1,2019,"May",22,"Night","18-30",1
+"CR10394",2024-07-04,"Delhi","Rohini","Cyber Crime","Online","17:22",38,"Female","Unsolved",2,2024,"Jul",17,"Afternoon","31-45",0
+"CR10947",2024-07-24,"Rajasthan","Jodhpur","Fraud","Online","07:46",28,"Male","Unsolved",1,2024,"Jul",7,"Morning","18-30",0
+"CR10108",2021-01-25,"Delhi","New Delhi","Assault","Knife","05:55",20,"Female","Solved",2,2021,"Jan",5,"Night","18-30",1
+"CR10954",2020-10-02,"Rajasthan","Udaipur","Theft","None","19:33",50,"Male","Solved",3,2020,"Oct",19,"Evening","46-60",1
+"CR10525",2019-07-15,"Delhi","Dwarka","Theft","None","22:04",27,"Male","Unsolved",1,2019,"Jul",22,"Night","18-30",0
+"CR10785",2025-09-03,"Maharashtra","Mumbai","Burglary","None","07:54",27,"Female","Unsolved",2,2025,"Sep",7,"Morning","18-30",0
+"CR10048",2021-12-18,"Rajasthan","Udaipur","Theft","None","20:12",41,"Male","Unsolved",3,2021,"Dec",20,"Evening","31-45",0
+"CR10204",2020-02-03,"Maharashtra","Nagpur","Robbery","Firearm","19:23",26,"Male","Unsolved",2,2020,"Feb",19,"Evening","18-30",0
+"CR10934",2024-08-08,"Delhi","New Delhi","Cyber Crime","Online","08:08",25,"Male","Solved",2,2024,"Aug",8,"Morning","18-30",1
+"CR10632",2025-07-26,"Rajasthan","Udaipur","Robbery","None","22:02",38,"Male","Unsolved",1,2025,"Jul",22,"Night","31-45",0
+"CR10022",2022-03-05,"Gujarat","Ahmedabad","Assault","Blunt Object","23:23",37,"Female","Solved",1,2022,"Mar",23,"Night","31-45",1
+"CR10403",2024-12-24,"West Bengal","Kolkata","Murder","Knife","19:38",20,"Male","Solved",1,2024,"Dec",19,"Evening","18-30",1
+"CR10084",2020-10-01,"Maharashtra","Pune","Theft","None","19:56",31,"Female","Unsolved",3,2020,"Oct",19,"Evening","31-45",0
+"CR10131",2020-03-13,"West Bengal","Siliguri","Burglary","Crowbar","22:02",10,"Female","Unsolved",1,2020,"Mar",22,"Night","0-17",0
+"CR10416",2021-03-28,"Karnataka","Bengaluru","Theft","None","15:41",22,"Male","Unsolved",3,2021,"Mar",15,"Afternoon","18-30",0
+"CR10994",2020-02-01,"West Bengal","Siliguri","Cyber Crime","Online","12:59",24,"Female","Solved",1,2020,"Feb",12,"Afternoon","18-30",1
+"CR10842",2024-05-04,"Uttar Pradesh","Noida","Assault","None","17:42",36,"Male","Solved",2,2024,"May",17,"Afternoon","31-45",1
+"CR10742",2019-07-18,"Telangana","Warangal","Domestic Violence","None","18:03",51,"Female","Solved",3,2019,"Jul",18,"Evening","46-60",1
+"CR10698",2023-05-13,"Karnataka","Mangaluru","Fraud","Online","13:17",35,"Male","Unsolved",3,2023,"May",13,"Afternoon","31-45",0
+"CR10287",2019-09-14,"Gujarat","Surat","Burglary","Crowbar","23:26",33,"Female","Unsolved",3,2019,"Sep",23,"Night","31-45",0
+"CR10124",2022-01-12,"Karnataka","Mysuru","Fraud","Online","05:20",21,"Male","Solved",1,2022,"Jan",5,"Night","18-30",1
+"CR10034",2022-12-16,"Delhi","New Delhi","Cyber Crime","Online","10:39",44,"Male","Solved",1,2022,"Dec",10,"Morning","31-45",1
+"CR10986",2025-07-07,"Delhi","New Delhi","Domestic Violence","None","20:49",28,"Female","Unsolved",1,2025,"Jul",20,"Evening","18-30",0
+"CR10517",2021-02-27,"Gujarat","Vadodara","Domestic Violence","None","16:27",43,"Female","Unsolved",1,2021,"Feb",16,"Afternoon","31-45",0
+"CR10924",2023-12-21,"Karnataka","Mangaluru","Domestic Violence","None","12:47",22,"Female","Solved",2,2023,"Dec",12,"Afternoon","18-30",1
+"CR10020",2023-11-08,"Delhi","Rohini","Domestic Violence","None","02:45",31,"Female","Solved",1,2023,"Nov",2,"Night","31-45",1
+"CR10935",2024-12-21,"Maharashtra","Pune","Theft","None","21:14",34,"Male","Solved",3,2024,"Dec",21,"Evening","31-45",1
+"CR10220",2022-11-05,"Uttar Pradesh","Varanasi","Cyber Crime","Online","19:03",23,"Male","Unsolved",2,2022,"Nov",19,"Evening","18-30",0
+"CR10892",2025-08-25,"West Bengal","Howrah","Theft","None","22:57",19,"Male","Solved",2,2025,"Aug",22,"Night","18-30",1
+"CR10482",2020-05-09,"Karnataka","Mysuru","Cyber Crime","Online","02:06",22,"Male","Unsolved",3,2020,"May",2,"Night","18-30",0
+"CR10932",2022-12-04,"Delhi","Dwarka","Kidnapping","Firearm","00:59",33,"Male","Solved",1,2022,"Dec",0,"Night","31-45",1
+"CR10357",2024-12-09,"Delhi","Rohini","Domestic Violence","Blunt Object","21:02",36,"Female","Solved",2,2024,"Dec",21,"Evening","31-45",1
+"CR10662",2025-04-14,"Maharashtra","Mumbai","Kidnapping","Firearm","16:45",43,"Male","Unsolved",1,2025,"Apr",16,"Afternoon","31-45",0
+"CR10225",2021-05-09,"Kerala","Kochi","Theft","None","15:34",28,"Male","Unsolved",3,2021,"May",15,"Afternoon","18-30",0
+"CR10760",2022-11-19,"Rajasthan","Jodhpur","Assault","None","20:31",46,"Female","Solved",3,2022,"Nov",20,"Evening","46-60",1
+"CR10093",2022-10-13,"Maharashtra","Pune","Robbery","Knife","14:27",70,"Male","Unsolved",2,2022,"Oct",14,"Afternoon","60+",0
+"CR10152",2025-05-28,"Karnataka","Bengaluru","Cyber Crime","Online","15:11",50,"Male","Unsolved",1,2025,"May",15,"Afternoon","46-60",0
+"CR10993",2024-07-23,"Maharashtra","Mumbai","Domestic Violence","Blunt Object","00:36",10,"Female","Solved",3,2024,"Jul",0,"Night","0-17",1
+"CR10318",2024-06-14,"Tamil Nadu","Salem","Kidnapping","None","23:13",16,"Female","Unsolved",2,2024,"Jun",23,"Night","0-17",0
+"CR10449",2019-07-22,"Uttar Pradesh","Varanasi","Robbery","None","18:58",36,"Male","Unsolved",2,2019,"Jul",18,"Evening","31-45",0
+"CR10804",2023-12-26,"Uttar Pradesh","Noida","Cyber Crime","Online","17:56",29,"Female","Unsolved",1,2023,"Dec",17,"Afternoon","18-30",0
+"CR10746",2022-06-27,"Maharashtra","Mumbai","Drug Offence","None","16:38",26,"Male","Solved",1,2022,"Jun",16,"Afternoon","18-30",1
+"CR10523",2020-07-11,"Maharashtra","Nashik","Murder","Blunt Object","22:56",24,"Male","Solved",2,2020,"Jul",22,"Night","18-30",1
+"CR10280",2025-11-05,"Uttar Pradesh","Kanpur","Kidnapping","Firearm","11:00",14,"Female","Solved",1,2025,"Nov",11,"Morning","0-17",1
+"CR10584",2022-03-27,"Maharashtra","Mumbai","Assault","Blunt Object","03:30",50,"Male","Solved",2,2022,"Mar",3,"Night","46-60",1
+"CR10765",2025-03-19,"Maharashtra","Pune","Fraud","Online","14:16",40,"Male","Solved",3,2025,"Mar",14,"Afternoon","31-45",1
+"CR10605",2025-10-06,"Delhi","Rohini","Theft","None","19:31",18,"Female","Unsolved",1,2025,"Oct",19,"Evening","18-30",0
+"CR10992",2024-08-04,"Telangana","Hyderabad","Burglary","None","03:25",35,"Female","Unsolved",2,2024,"Aug",3,"Night","31-45",0
+"CR10350",2019-11-06,"Telangana","Hyderabad","Assault","Knife","20:35",21,"Female","Solved",1,2019,"Nov",20,"Evening","18-30",1
+"CR10928",2025-02-17,"Rajasthan","Jodhpur","Robbery","Knife","18:27",29,"Female","Solved",1,2025,"Feb",18,"Evening","18-30",1
+"CR10375",2020-04-17,"Tamil Nadu","Salem","Burglary","Crowbar","18:54",33,"Female","Solved",3,2020,"Apr",18,"Evening","31-45",1
+"CR10401",2021-06-12,"Maharashtra","Nashik","Kidnapping","None","10:58",27,"Male","Unsolved",1,2021,"Jun",10,"Morning","18-30",0
+"CR10705",2021-08-10,"Kerala","Kozhikode","Fraud","Online","12:38",13,"Male","Solved",1,2021,"Aug",12,"Afternoon","0-17",1
+"CR10258",2019-09-02,"Gujarat","Ahmedabad","Burglary","None","17:17",42,"Male","Unsolved",1,2019,"Sep",17,"Afternoon","31-45",0
+"CR10945",2022-05-06,"Maharashtra","Mumbai","Vehicle Theft","None","19:45",24,"Male","Unsolved",1,2022,"May",19,"Evening","18-30",0
+"CR10852",2020-01-05,"Kerala","Kochi","Domestic Violence","Blunt Object","14:10",30,"Female","Solved",2,2020,"Jan",14,"Afternoon","18-30",1
+"CR10073",2025-07-18,"Uttar Pradesh","Lucknow","Assault","Blunt Object","13:05",37,"Male","Unsolved",3,2025,"Jul",13,"Afternoon","31-45",0
+"CR10196",2020-01-07,"Kerala","Kozhikode","Vehicle Theft","None","07:08",33,"Female","Solved",2,2020,"Jan",7,"Morning","31-45",1
+"CR10484",2021-08-21,"Tamil Nadu","Chennai","Assault","Blunt Object","17:15",31,"Male","Solved",3,2021,"Aug",17,"Afternoon","31-45",1
+"CR10856",2022-12-15,"Kerala","Kozhikode","Cyber Crime","Online","15:37",17,"Male","Unsolved",3,2022,"Dec",15,"Afternoon","0-17",0
+"CR10138",2022-04-06,"Maharashtra","Mumbai","Murder","Knife","14:45",27,"Male","Unsolved",1,2022,"Apr",14,"Afternoon","18-30",0
+"CR10495",2024-04-21,"Kerala","Thiruvananthapuram","Burglary","None","20:14",43,"Female","Unsolved",1,2024,"Apr",20,"Evening","31-45",0
+"CR10773",2023-11-19,"Uttar Pradesh","Lucknow","Kidnapping","Firearm","09:57",33,"Male","Solved",2,2023,"Nov",9,"Morning","31-45",1
+"CR10551",2022-05-14,"Uttar Pradesh","Lucknow","Robbery","None","16:19",30,"Female","Solved",2,2022,"May",16,"Afternoon","18-30",1
+"CR10463",2025-02-16,"Kerala","Kozhikode","Cyber Crime","Online","16:43",12,"Male","Solved",1,2025,"Feb",16,"Afternoon","0-17",1
+"CR10202",2025-04-01,"Rajasthan","Jaipur","Assault","None","18:47",39,"Female","Solved",1,2025,"Apr",18,"Evening","31-45",1
+"CR10313",2021-06-17,"Uttar Pradesh","Noida","Drug Offence","None","08:10",52,"Female","Solved",2,2021,"Jun",8,"Morning","46-60",1
+"CR10291",2025-09-16,"Rajasthan","Jodhpur","Burglary","None","15:14",40,"Female","Solved",3,2025,"Sep",15,"Afternoon","31-45",1
+"CR10961",2023-05-24,"Delhi","Rohini","Cyber Crime","Online","14:12",35,"Male","Solved",2,2023,"May",14,"Afternoon","31-45",1
+"CR10190",2021-05-16,"Tamil Nadu","Salem","Domestic Violence","None","13:33",36,"Female","Solved",3,2021,"May",13,"Afternoon","31-45",1
+"CR10764",2020-03-04,"Uttar Pradesh","Noida","Cyber Crime","Online","17:09",32,"Male","Unsolved",1,2020,"Mar",17,"Afternoon","31-45",0
+"CR10113",2021-10-07,"Uttar Pradesh","Kanpur","Robbery","None","19:40",5,"Male","Solved",3,2021,"Oct",19,"Evening","0-17",1
+"CR10950",2021-05-01,"Uttar Pradesh","Varanasi","Domestic Violence","None","13:03",40,"Female","Solved",3,2021,"May",13,"Afternoon","31-45",1
+"CR10184",2021-01-03,"Uttar Pradesh","Lucknow","Robbery","Firearm","18:29",12,"Female","Unsolved",1,2021,"Jan",18,"Evening","0-17",0
+"CR10153",2020-02-21,"Uttar Pradesh","Kanpur","Vehicle Theft","None","12:41",46,"Male","Solved",1,2020,"Feb",12,"Afternoon","46-60",1
+"CR10825",2025-07-17,"Maharashtra","Nagpur","Theft","None","23:21",33,"Male","Unsolved",1,2025,"Jul",23,"Night","31-45",0
+"CR10326",2024-07-11,"Uttar Pradesh","Varanasi","Robbery","None","09:23",43,"Male","Solved",2,2024,"Jul",9,"Morning","31-45",1
+"CR10704",2025-03-15,"Delhi","New Delhi","Fraud","None","12:58",33,"Male","Unsolved",3,2025,"Mar",12,"Afternoon","31-45",0
+"CR10045",2025-01-06,"Maharashtra","Nagpur","Vehicle Theft","None","00:16",33,"Female","Solved",1,2025,"Jan",0,"Night","31-45",1
+"CR10445",2021-09-20,"Delhi","New Delhi","Cyber Crime","Online","21:13",29,"Male","Solved",3,2021,"Sep",21,"Evening","18-30",1
+"CR10788",2021-12-28,"Karnataka","Mangaluru","Vehicle Theft","None","22:24",55,"Female","Solved",3,2021,"Dec",22,"Night","46-60",1
+"CR10007",2024-11-08,"Karnataka","Mysuru","Fraud","Online","22:46",39,"Male","Unsolved",3,2024,"Nov",22,"Night","31-45",0
+"CR10251",2024-06-20,"Uttar Pradesh","Noida","Cyber Crime","Online","02:23",37,"Female","Unsolved",1,2024,"Jun",2,"Night","31-45",0
+"CR10824",2024-12-13,"Kerala","Thiruvananthapuram","Robbery","None","22:55",16,"Female","Solved",1,2024,"Dec",22,"Night","0-17",1
+"CR10076",2021-05-08,"Karnataka","Bengaluru","Fraud","Online","20:50",49,"Female","Unsolved",1,2021,"May",20,"Evening","46-60",0
+"CR10513",2019-11-19,"Kerala","Kozhikode","Vehicle Theft","None","08:19",57,"Male","Solved",2,2019,"Nov",8,"Morning","46-60",1
+"CR10941",2021-10-09,"Karnataka","Hubli","Cyber Crime","Online","22:26",31,"Male","Unsolved",1,2021,"Oct",22,"Night","31-45",0
+"CR10392",2020-03-16,"Kerala","Kochi","Theft","None","10:44",40,"Female","Solved",2,2020,"Mar",10,"Morning","31-45",1
+"CR10896",2025-03-16,"Maharashtra","Mumbai","Domestic Violence","Blunt Object","17:24",42,"Female","Solved",2,2025,"Mar",17,"Afternoon","31-45",1
+"CR10433",2024-05-04,"Uttar Pradesh","Kanpur","Theft","None","09:29",51,"Male","Solved",3,2024,"May",9,"Morning","46-60",1
+"CR10069",2019-09-05,"Gujarat","Vadodara","Vehicle Theft","None","03:15",23,"Female","Solved",3,2019,"Sep",3,"Night","18-30",1
+"CR10168",2024-05-17,"Karnataka","Bengaluru","Domestic Violence","Blunt Object","17:50",24,"Female","Solved",3,2024,"May",17,"Afternoon","18-30",1
+"CR10905",2025-04-27,"Karnataka","Bengaluru","Theft","None","20:07",30,"Female","Solved",3,2025,"Apr",20,"Evening","18-30",1
+"CR10731",2021-08-15,"West Bengal","Kolkata","Murder","Knife","02:12",25,"Female","Unsolved",1,2021,"Aug",2,"Night","18-30",0
+"CR10555",2019-04-14,"Tamil Nadu","Salem","Fraud","Online","19:42",26,"Male","Unsolved",1,2019,"Apr",19,"Evening","18-30",0
+"CR10367",2024-03-22,"Maharashtra","Nagpur","Assault","Knife","02:04",24,"Male","Unsolved",1,2024,"Mar",2,"Night","18-30",0
+"CR10585",2025-02-20,"Maharashtra","Nashik","Burglary","None","08:06",33,"Male","Solved",1,2025,"Feb",8,"Morning","31-45",1
+"CR10536",2020-09-01,"Karnataka","Mysuru","Vehicle Theft","None","21:50",23,"Female","Solved",1,2020,"Sep",21,"Evening","18-30",1
+"CR10399",2022-02-22,"Delhi","New Delhi","Cyber Crime","Online","21:00",12,"Male","Solved",2,2022,"Feb",21,"Evening","0-17",1
+"CR10186",2024-05-07,"Rajasthan","Udaipur","Assault","Knife","17:59",10,"Male","Solved",1,2024,"May",17,"Afternoon","0-17",1
+"CR10349",2023-03-10,"Maharashtra","Pune","Murder","Knife","22:49",46,"Male","Solved",1,2023,"Mar",22,"Night","46-60",1
+"CR10616",2024-01-16,"Gujarat","Vadodara","Robbery","Knife","00:38",27,"Male","Unsolved",3,2024,"Jan",0,"Night","18-30",0
+"CR10920",2023-03-02,"Uttar Pradesh","Kanpur","Fraud","None","19:01",33,"Female","Unsolved",3,2023,"Mar",19,"Evening","31-45",0
+"CR10212",2023-04-13,"Gujarat","Surat","Kidnapping","None","22:00",33,"Male","Unsolved",2,2023,"Apr",22,"Night","31-45",0
+"CR10580",2021-01-04,"Karnataka","Hubli","Theft","None","17:31",10,"Male","Unsolved",2,2021,"Jan",17,"Afternoon","0-17",0
+"CR10503",2025-02-04,"West Bengal","Howrah","Burglary","None","04:46",21,"Female","Solved",3,2025,"Feb",4,"Night","18-30",1
+"CR10538",2020-07-09,"Uttar Pradesh","Noida","Theft","None","06:58",40,"Female","Solved",1,2020,"Jul",6,"Morning","31-45",1
+"CR10197",2023-07-15,"Gujarat","Surat","Burglary","None","13:08",29,"Male","Unsolved",1,2023,"Jul",13,"Afternoon","18-30",0
+"CR10176",2019-01-27,"Uttar Pradesh","Lucknow","Assault","Blunt Object","00:31",32,"Male","Solved",2,2019,"Jan",0,"Night","31-45",1
